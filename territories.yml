@@ -2,19 +2,19 @@
       start: -2048,-4278
       end: -1932,-4403
 
-    - name: Llevigar Gate East
+ - name: Llevigar Gate East
       start: -1919,-4648
       end: -2006,-4746
 
-    - name: Llevigar Gate West
+ - name: Llevigar Gate West
       start: -2023,-4746
       end: -2097,-4644
 
-    - name: Llevigar Farm Plains East
+ - name: Llevigar Farm Plains East
       start: -2009,-4747
       end: -1921,-4828
 
-    - name: Llevigar Farm Plains West
+ - name: Llevigar Farm Plains West
       start: -2023,-4746
       end: -2096,-4828
    
@@ -42,31 +42,31 @@
       start: -2031,-4912
       end: -1940,-5000
 
- - name: Swamp West Lower
+  - name: Swamp West Lower
       start: -2045,-5003
       end: -2134,-5075
 
- - name: Swamp East Lower
+  - name: Swamp East Lower
       start: -2028,-5003
       end: -1956,-5074
 
- - name: Swamp East Mid
+  - name: Swamp East Mid
       start: -1955,-5081
       end: -2028,-5186
 
- - name: Swamp West Mid
+  - name: Swamp West Mid
       start: -2045,-5082
       end: -2132,-5186
 
- - name: Swamp East Mid-Upper
+  - name: Swamp East Mid-Upper
       start: -2132,-5190
       end: -2049,-5309
 
- - name: Swamp West Mid-Upper
+  - name: Swamp West Mid-Upper
       start: -2028,-5188
       end: -1955,-5309
 
- - name: Swamp East Upper
+  - name: Swamp East Upper
       start: -2132,-5312
       end: -2049,-5419
 
@@ -198,7 +198,7 @@
       start: -1243,-4574
       end: -1157,-4724
 
- - name: Efelim Village 
+ - name: Efelim Village
       start: -1020,-4943
       end: -1134,-5078
 
