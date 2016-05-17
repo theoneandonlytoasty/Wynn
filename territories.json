@@ -831,5 +831,9 @@
     "Corrupted Impact": {
     "start": "-725,-5102",
     "end": "-785,-5299"
+  },
+    "Banshees Cave": {
+    "start": "-653,-5231",
+    "end": "-785,-5401"
     }
 }
