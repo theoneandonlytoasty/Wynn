@@ -843,5 +843,29 @@
     "Dark Forest Village": {
     "start": "-723,-5229",
     "end": "-574,-5147"
+    },
+    "Graveyard South": {
+    "start": "-648,-5311",
+    "end": "-567,-5234"
+  },
+    "Graveyard North": {
+    "start": "-648,-5314",
+    "end": "-567,-5400"
+  },
+    "Lexdale": {
+    "start": "-650,-5511",
+    "end": "526,-5406"
+  },
+    "Arachnida Cave": {
+    "start": "-489,-5279",
+    "end": "-549,-5398"
+  },
+    "Black Magic": {
+    "start": "-471,-5405",
+    "end": "-549,-5512"
+  },
+    "Corrupted Hand": {
+    "start": "-598,-5580",
+    "end": "-454,-5518"
     }
 }
