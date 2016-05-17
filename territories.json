@@ -771,5 +771,43 @@
   "Path to Cinfras": {
     "start": "-734,-4842",
     "end": "-818,-4953"
+  },
+    "name": "Lone Farmstead"{
+    "start": "-942,-5227", 
+    "end": "-1050,-5116", 
+  }, 
+    "name": "Gelibord"{
+    "start": "-1050,-5244", 
+    "end": "-958,-5342", 
+  }, 
+  
+    "name": "Gelibord Corrupted Farm"{
+    "start": "-1056,-5355", 
+    "end": "-1179,-5448", 
+  }, 
+  "name": "Gelibord Castle"{
+    "start": "-1027,-5470", 
+    "end": "-1180,-5600", 
+  }, 
+    "name": "Taproot Descent"{
+    "start": "-1425,-5407", 
+    "end": "-1194,-5589", 
+  }, 
+    "name": "Fortress North"{
+    "start": "-1452,-5211", 
+    "end": "-1272,-5395", 
+  }, 
+     "name": "Fortress South"{
+    "start": "-1460,-5025", 
+    "end": "-1272,-5210", 
+  }, 
+    "name": "Mansion of Insanity"{
+    "start": "-1237,-5116", 
+    "end": "-1144,-5268", 
+
+  }, 
+    "name": "Twisted Housing"{
+    "start": "-1133,-5116", 
+    "end": "-1053,-5272", 
   }
 }
