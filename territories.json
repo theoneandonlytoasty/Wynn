@@ -807,5 +807,9 @@
     "Twisted Housing": {
     "start": "-1133,-5116", 
     "end": "-1053,-5272"
-  }
+  },
+    "Lexdales Prison": {
+    "start": "-873,-5518",
+    "end": "-772,-5585"
+    }
 }
