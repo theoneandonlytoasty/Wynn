@@ -899,5 +899,65 @@
     "Cinfras Country Lower": {
     "start": "-6,-4758",
     "end": "-128,-4640"
+   }, 
+    "name": "Cinfras Country Mid-Lower",{
+    "start": "-127,-4761",
+    "End": "-6,-4894"
+  },
+    "name": "Cinfras Country Mid-Upper", {
+    "start": "-127,-4896",
+    "end": "0,-5051"
+  },
+    "name": "Cinfras Country Upper", {
+    "start": "-127,-5155",
+    "end": "3,-5045"
+  },
+    "name": "Gylia Lake South East", {
+    "start": "30,-5157",
+    "end": "-127,-5271"
+  },
+    "name": "Gylia Lake South West", {
+    "start": "-130,-5173",
+    "end": "-225,-5271"
+  },
+    "name": "Gylia Lake North West", {
+    "start": "-218,-5427",
+    "end": "-130,-5273"
+  },
+    "name": "Gylia Lake North East", {
+    "start": "-128,-5416",
+    "end": "21,-5273"
+  },
+    "name": "Orc Camp", {
+    "start": "30,-5447",
+    "end": "-83,-5605"
+  },
+    "name": "Jitak’s Farm", {
+    "start": "-122,-5430",
+    "end": "-218,-5567"
+  },
+    "name": "Aldorei Valley Lower", {
+    "start": "-714,-4395",
+    "end": "-559,-4499"
+  },
+    "name": "Aldorei Valley Mid", {
+    "start": "-450,-4499",
+    "end": "-557,-4395"
+  },
+    "name": "Aldorei Valley Upper", {
+    "start": "-557,-4501",
+    "end": "-450,-4661"
+  },
+    "name": "Aldorei’s River", {
+    "start": -4374656,
+    "end": "-338,-4756"
+  },
+    "name": "Aldorei’s Waterfall", {
+    "start": "-237,-4514",
+    "end": "-321,-4648"
+  },
+    "name": "Aldorei Northern Exit", {
+    "start": "-128,-4639",
+    "end": "-6,-4509"
     }
 }
