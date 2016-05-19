@@ -1126,13 +1126,13 @@
   },
   {
     "name": "Cinfras Country Lower",
-    "start": "3,-4758",
-    "end": "-128,-4640"
+    "start": "3,-4761",
+    "end": "-127,-4640"
   },
   {
     "name": "Cinfras Country Mid-Lower",
     "start": "-127,-4761",
-    "end": "3,-4894"
+    "end": "3,-4896"
   },
   {
     "name": "Cinfras Country Mid-Upper",
@@ -1201,7 +1201,7 @@
   },
   {
     "name": "Aldorei Northern Exit",
-    "start": "-128,-4639",
-    "end": "-6,-4509"
+    "start": "-127,-4640",
+    "end": "3,-4509"
   }
 ]
