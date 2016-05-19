@@ -871,5 +871,9 @@
     "Cinfras Entrance": {
     "start": "-555,-4996",
     "end": "-717,-4868"
+    },
+    "Abandoned Tower": {
+    "start": "-288,-5411",
+    "end": "-392,-5601"
     }
 }
