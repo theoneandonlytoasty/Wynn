@@ -1102,7 +1102,7 @@
   {
     "name": "Corrupted Village",
     "start": "-288,-5409",
-    "End": "-392,-5294"
+    "end": "-392,-5294"
   },
   {
     "name": "Dark Forest Cinfras Transition",
@@ -1132,7 +1132,7 @@
   {
     "name": "Cinfras Country Mid-Lower",
     "start": "-127,-4761",
-    "End": "-6,-4894"
+    "end": "-6,-4894"
   },
   {
     "name": "Cinfras Country Mid-Upper",
