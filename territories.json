@@ -871,9 +871,33 @@
     "Cinfras Entrance": {
     "start": "-555,-4996",
     "end": "-717,-4868"
-    },
+  },
     "Abandoned Tower": {
     "start": "-288,-5411",
     "end": "-392,-5601"
+  },
+    "Corrupted Village": {
+    "start": "-288,-5409",
+    "end": "-392,-5294"
+  },
+    "Dark Forest Cinfras Transition": {
+    "start": "-290,-5292",
+    "end": "-392,-5116"
+  },
+    "Guild Hall": {
+    "start": "-349,-5093",
+    "end": "-137,-4814"
+  },
+    "Aldorei Valley South Entrance": {
+    "start": "-130,-4641",
+    "end": "-222,-4509"
+  },
+    "Cinfras’s Small Farm": {
+    "start": "-224,-4793",
+    "end": "-130,-4643"
+  },
+    "Cinfras Country Lower": {
+    "start": "-6,-4758",
+    "end": "-128,-4640"
     }
 }
