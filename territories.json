@@ -1126,18 +1126,18 @@
   },
   {
     "name": "Cinfras Country Lower",
-    "start": "-6,-4758",
+    "start": "3,-4758",
     "end": "-128,-4640"
   },
   {
     "name": "Cinfras Country Mid-Lower",
     "start": "-127,-4761",
-    "end": "-6,-4894"
+    "end": "3,-4894"
   },
   {
     "name": "Cinfras Country Mid-Upper",
     "start": "-127,-4896",
-    "end": "3,-5050"
+    "end": "3,-5051"
   },
   {
     "name": "Cinfras Country Upper",
