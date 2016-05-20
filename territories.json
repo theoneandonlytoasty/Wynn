@@ -1203,5 +1203,335 @@
     "name": "Aldorei's North Exit",
     "start": "-127,-4640",
     "end": "3,-4509"
+  },
+  {
+    "name": "Aldorie’s Arch",
+    "start": "33,-4367",
+    "end": "107,-4519"
+  },
+  {
+    "name": "Path To The Arch",
+    "start": "35,-4521",
+    "end": "107,-4641"
+  },
+  {
+    "name": "Ghostly Path",
+    "start": "35,-4643",
+    "end": "107,-4753"
+  },
+  {
+    "name": "Burning Farm",
+    "start": "107,-4755",
+    "end": "35,-4857"
+  },
+  {
+    "name": "Burning Airship",
+    "start": "35,-4859",
+    "end": "107,-4955"
+  },
+  {
+    "name": "Cinfras Thanos Transition",
+    "start": "98,-4957",
+    "end": "35,-5046"
+  },
+  {
+    "name": "Thanos",
+    "start": "51-5189",
+    "end": "194,-5295"
+  },
+  {
+    "name": "Path To Thanos",
+    "start": "98,-5049",
+    "end": "35,-5146"
+  },
+  {
+    "name": "Path To Military Base",
+    "Start": "51,-5297",
+    "end": "166,-5391"
+  },
+  {
+    "name": "Military Base",
+    "start": "104,-5393",
+    "end": "166,-5518"
+  },
+  {
+    "name": "Military Base Upper",
+    "start": "168,-5408",
+    "end": "250,-5518"
+  },
+  {
+    "name": "Military Base Lower",
+    "start": "244,-5407",
+    "end": "168,-5315"
+  },
+  {
+    "name": "Path To Ozoth’s Spire Lower",
+    "start": "260,-5298",
+    "end": "199,-5169"
+  },
+  {
+    "name": "Path To Ozoth’s Spire Mid",
+    "start": "199,-5164",
+    "end": "260,-5042"
+  },
+  {
+    "name": "Path To Ozoth’s Spire Upper",
+    "start": "194,-5165",
+    "end": "111,-5045"
+  },
+  {
+    "name": "Bandit Cave Lower",
+    "start": "111,-5043",
+    "end": "194,-4958"
+  },
+  {
+    "name": "Bandit Cave Upper",
+    "start": "194,-4956",
+    "end": "111,-4872"
+  },
+  {
+    "name": "Canyon Entrance Waterfall",
+    "start": "110,-4869",
+    "end": "194,-4741"
+  },
+  {
+    "name": "Canyon Path North West",
+    "start": "110,-4736",
+    "end": "194,-4651"
+  },
+  {
+    "name": "Canyon Path South East",
+    "start": "194,-4649",
+    "end": "115,-4521"
+  },
+  {
+    "name": "Canyon Waterfall North",
+    "start": "115,-4159",
+    "end": "194,-4380"
+  },
+  {
+    "name": "Canyon Upper North West",
+    "start": "200,-4380",
+    "end": "265,-4518"
+  },
+  {
+    "name": "Canyon Lower South East",
+    "start": "265,-4521",
+    "end": "199,-4649"
+  },
+  {
+    "name": "Canyon Path South West",
+    "start": "265,-4652",
+    "end": "200,-4741"
+  },
+  {
+    "name": "Canyon Path North Mid",
+    "start": "200,-4743",
+    "end": "264,-4875"
+  },
+  {
+    "name": "Bandit Camp Exit",
+    "start": "264,-4877",
+    "end": "203,-4971"
+  },
+  {
+    "name": "Canyon Valley South",
+    "start": "263,-4973",
+    "end": "199,-5035"
+  },
+  {
+    "name": "Thanos Valley West",
+    "start": "250,-5401",
+    "end": "311,-5315"
+  },
+  {
+    "name": "Thanos Exit",
+    "start": "338,-5310",
+    "end": "262,-5168"
+  },
+  {
+    "name": "Canyon Walk Way",
+    "start": "271,-5165",
+    "end": "338,-5041"
+  },
+  {
+    "name": "Canyon Mountain North",
+    "start": "200,-4652",
+    "end": "265,-4741"
+  },
+  {
+    "name": "Canyon Mountain East",
+    "start": "271,-5039",
+    "end": "337,-4948"
+  },
+  {
+    "name": "Canyon Mountain South",
+    "start": "271,-4946",
+    "end": "337,-4857"
+  },
+  {
+    "name": "Canyon Waterfall Mid North",
+    "start": "337,-4855",
+    "end": "271,-4741"
+  },
+  {
+    "name": "Canyon ???",
+    "start": "271,-4739",
+    "end": "338,-4630"
+  },
+  {
+    "name": "Canyon Survivor",
+    "start": "338,-4628",
+    "end": "269,-4522"
+  },
+  {
+    "name": "Canyon Dropoff",
+    "start": "334,-4518",
+    "end": "269,-4395"
+  },
+  {
+    "name": "Thanos Exit Upper",
+    "start": "347,-5313",
+    "end": "438,-5183"
+  },
+  {
+    "name": "Bandits Toll",
+    "start": "438,-5093",
+    "end": "345,-5181"
+  },
+  {
+    "name": "Wizard Tower North",
+    "start": "438,-5037",
+    "end": "345,-4966"
+  },
+  {
+    "name": "Cliff Side Flag",
+    "start": "334,-4518",
+    "end": "269,-4395"
+  },
+  {
+    "name": "Mountain Path",
+    "start": "334,-4393",
+    "end": "276,-4314"
+  },
+  {
+    "name": "Mountain Edge",
+    "start": "437,-4314",
+    "end": "336,-4392"
+  },
+  {
+    "name": "Cliff Side of the Lost",
+    "start": "340,-4395",
+    "end": "437,-4508"
+  },
+  {
+    "name": "Valley of the Lost",
+    "start": "435,-4511",
+    "end": "341,-4670"
+  },
+  {
+    "name": "Temple of the Lost East",
+    "start": "440,-4672",
+    "end": "341,-4838"
+  },
+  {
+    "name": "Koltron’s Cave",
+    "start": "341,-4841",
+    "end": "438,-4962"
+  },
+  {
+    "name": "Hive South",
+    "start": "440,-5315",
+    "end": "560,-5449"
+  },
+  {
+    "name": "Canyon High Path",
+    "start": "562,-5313",
+    "end": "440,-5191"
+  },
+  {
+    "name": "Cliffside Waterfall",
+    "start": "440,-5183",
+    "end": "563,-5080"
+  },
+  {
+    "name": "Cliffside Valley",
+    "start": "563,-5079",
+    "end": "440,-4975"
+  },
+  {
+    "name": "Air Temple Lower",
+    "start": "445,-4972",
+    "end": "563,-4835"
+  },
+  {
+    "name": "Air Temple Upper",
+    "start": "570,-4833",
+    "end": "445,-4692"
+  },
+  {
+    "name": "Cliffside Lake",
+    "start": "445,-4689",
+    "end": "570,-4568"
+  },
+  {
+    "name": "Canyon Of The Lost",
+    "start": "443,-4566",
+    "end": "570,-4392"
+  },
+  {
+    "name": "Kandon-Beda",
+    "start": "607,-4579",
+    "end": "760,-4372"
+  },
+  {
+    "name": "Kandon Farm",
+    "start": "710,-4587",
+    "end": "614,-4682"
+  },
+  {
+    "name": "Cliffside Passage",
+    "start": "699,-4817",
+    "end": "572,-4691"
+  },
+  {
+    "name": "Cliffside Passage North",
+    "etart": "572,-4818",
+    "end": "700,-4933"
+  },
+  {
+    "name": "Entrance to Thesead North",
+    "start": "572,-4935",
+    "end": "700,-5028"
+  },
+  {
+    "name": "Entrance to Thesead South",
+    "start": "700,-5030",
+    "end": "574,-5181"
+  },
+  {
+    "name": "Chained House",
+    "start": "574,-5375",
+    "end": "699,-5242"
+  },
+  {
+    "name": "Cherry Blossom Forest",
+    "start": "699,-5378",
+    "end": "575,-5551"
+  },
+  {
+    "name": "Ranol’s Farm",
+    "start": "810.-5551",
+    "end": "701,-5377"
+  },
+  {
+    "name": "Thesead Suberbs",
+    "start": "703-5374",
+    "end": "810,-5216"
+  },
+  {
+    "name": "Thesead",
+    "start": "747,-5104",
+    "end": "872,-4964"
   }
 ]
