@@ -1246,7 +1246,7 @@
   },
   {
     "name": "Path To Military Base",
-    "Start": "51,-5297",
+    "start": "51,-5297",
     "end": "166,-5391"
   },
   {
@@ -1486,7 +1486,7 @@
   },
   {
     "name": "Cliffside Passage North",
-    "etart": "572,-4818",
+    "start": "572,-4818",
     "end": "700,-4933"
   },
   {
@@ -1511,12 +1511,12 @@
   },
   {
     "name": "Ranol’s Farm",
-    "start": "810.-5551",
+    "start": "810,-5551",
     "end": "701,-5377"
   },
   {
     "name": "Thesead Suberbs",
-    "start": "703-5374",
+    "start": "703,-5374",
     "end": "810,-5216"
   },
   {
