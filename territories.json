@@ -1546,12 +1546,12 @@
   },
   {
     "name": "Lava Lake Bridge",
-    "start": "1230.-5240",
+    "start": "1230,-5240",
     "end": "1379,-5366"
   },
   {
     "name": "Crater Descent",
-    "Start": "1383,-5238",
+    "Start": "1383,-5238"
     "end": "1230,-5067"
   },
   {
