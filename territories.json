@@ -1355,11 +1355,6 @@
     "end": "338,-5041"
   },
   {
-    "name": "Canyon Mountain North",
-    "start": "200,-4652",
-    "end": "265,-4741"
-  },
-  {
     "name": "Canyon Mountain East",
     "start": "271,-5039",
     "end": "337,-4948"
@@ -1403,11 +1398,6 @@
     "name": "Wizard Tower North",
     "start": "438,-5037",
     "end": "345,-4966"
-  },
-  {
-    "name": "Cliff Side Flag",
-    "start": "334,-4518",
-    "end": "269,-4395"
   },
   {
     "name": "Mountain Path",
