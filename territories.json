@@ -1523,5 +1523,45 @@
     "name": "Thesead",
     "start": "747,-5104",
     "end": "872,-4964"
+  },
+  {
+    "name": "Entrance to Rodoroc",
+    "start": "854,-5257",
+    "end": "1113,-5367"
+  },
+  {
+    "name": "Eltom",
+    "start": "1029,-5581",
+    "end": "828,-5376"
+  },
+  {
+    "name": "Molten Heights Portal",
+    "start": "1535,-5067",
+    "end": "1387,-5366"
+  },
+  {
+    "name": "Lava Lake",
+    "start": "1531,-5553",
+    "end": "1387,-5369"
+  },
+  {
+    "name": "Lava Lake Bridge",
+    "start": "1230.-5240",
+    "end": "1379,-5366"
+  },
+  {
+    "name": "Crater Descent",
+    "Start": "1383,-5238",
+    "end": "1230,-5067"
+  },
+  {
+    "name": "Active Volcano",
+    "start": "1233,-5553",
+    "end": "1379,-5369"
+  },
+  {
+    "name": "Volcanic Slope",
+    "start": "1531,-5637",
+    "end": "1221,-5555"
   }
 ]
