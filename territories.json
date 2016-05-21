@@ -1568,5 +1568,15 @@
     "name": "Ahmsord",
     "start": "1163,-4462",
     "end": "942,-4604"
+  },
+  {
+    "name": "Temple Island",
+    "start": "991,-4643",
+    "end": "1124,4750"
+  },
+  {
+    "name": "Snail Island",
+    "start": "1022,-4811",
+    "end": "958,-4872"
   }
 ]
