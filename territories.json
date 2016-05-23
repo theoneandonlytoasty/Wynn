@@ -1126,18 +1126,18 @@
     },
     {
         "name": "Cinfras Country Lower",
-        "start": "3,-4761",
+        "start": "3,-4760",
         "end": "-127,-4640"
     },
     {
         "name": "Cinfras Country Mid-Lower",
         "start": "-127,-4761",
-        "end": "3,-4896"
+        "end": "3,-4895"
     },
     {
         "name": "Cinfras Country Mid-Upper",
         "start": "-127,-4896",
-        "end": "3,-5051"
+        "end": "3,-5050"
     },
     {
         "name": "Cinfras Country Upper",
@@ -1147,7 +1147,7 @@
     {
         "name": "Gylia Lake South East",
         "start": "30,-5157",
-        "end": "-127,-5271"
+        "end": "-127,-5270"
     },
     {
         "name": "Gylia Lake South West",
