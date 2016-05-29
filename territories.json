@@ -1226,25 +1226,25 @@
         "end": "-130,-4643"
     },
     {
-        "name": "Cinfras Country Lower",
+        "name": "Cinfras County Lower",
         "start": "3,-4760",
         "hidden": true,
         "end": "-127,-4640"
     },
     {
-        "name": "Cinfras Country Mid-Lower",
+        "name": "Cinfras County Mid-Lower",
         "start": "-127,-4761",
         "hidden": true,
         "end": "3,-4895"
     },
     {
-        "name": "Cinfras Country Mid-Upper",
+        "name": "Cinfras County Mid-Upper",
         "start": "-127,-4896",
         "hidden": true,
         "end": "3,-5050"
     },
     {
-        "name": "Cinfras Country Upper",
+        "name": "Cinfras County Upper",
         "start": "-127,-5155",
         "hidden": true,
         "end": "3,-5051"
