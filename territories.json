@@ -1799,7 +1799,7 @@
         "name": "Light Realm East Upper",
         "start": "-1079,-6855",
         "hidden": true,
-        "end": "-1305,6986"
+        "end": "-1305,-6986"
     },
     {
         "name": "Light Realm Entrance",
@@ -1811,7 +1811,7 @@
         "name": "Light Realm Entrance Upper",
         "start": "-1076,-6848",
         "hidden": true,
-        "end": "-836,6634"
+        "end": "-836,-6634"
     },
     {
         "name": "Orphion's Seal",
@@ -1839,9 +1839,9 @@
     },
     {
         "name": "Road to Corruption",
-        "start": "-1077,6462",
+        "start": "-1077,-6462",
         "hidden": true,
-        "end": "-764,6630"
+        "end": "-764,-6630"
     },
     {
         "name": "Spiraling Trees",
