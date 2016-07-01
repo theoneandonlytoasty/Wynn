@@ -1770,5 +1770,83 @@
         "start": "1022,-4811",
         "hidden": true,
         "end": "958,-4872"
+    },
+    {
+        "name": "Light Realm East",
+        "start": "-240,-6855",
+        "hidden": true,
+        "end": "-45,-6984"
+    },
+    {
+        "name": "Light Realm East Lower",
+        "start": "-243,-6858",
+        "hidden": true,
+        "end": "-542,-6984"
+    },
+    {
+        "name": "Light Realm East Mid",
+        "start": "-566,-6985",
+        "hidden": true,
+        "end": "-860,-6857"
+    },
+    {
+        "name": "Light Realm East Mid-Upper",
+        "start": "-871,-6986",
+        "hidden": true,
+        "end": "-1076,-6855"
+    },
+    {
+        "name": "Light Realm East Upper",
+        "start": "-1079,-6855",
+        "hidden": true,
+        "end": "-1305,6986"
+    },
+    {
+        "name": "Light Realm Entrance",
+        "start": "-1079,-6635",
+        "hidden": true,
+        "end": "-1343,-6848"
+    },
+    {
+        "name": "Light Realm Entrance Upper",
+        "start": "-1076,-6848",
+        "hidden": true,
+        "end": "-836,6634"
+    },
+    {
+        "name": "Orphion's Seal",
+        "start": "-249,-6854",
+        "hidden": true,
+        "end": "-539,-6633"
+    },
+    {
+        "name": "Orphion's Seal Upper",
+        "start": "-542,-6854",
+        "hidden": true,
+        "end": "-826,-6633"
+    },
+    {
+        "name": "Light Realm Mushrooms",
+        "start": "-249,-6630",
+        "hidden": true,
+        "end": "-539,-6462"
+    },
+    {
+        "name": "Light Realm Corruption",
+        "start": "-545,-6462",
+        "hidden": true,
+        "end": "-762,-6630"
+    },
+    {
+        "name": "Road to Corruption",
+        "start": "-1077,6462",
+        "hidden": true,
+        "end": "-764,-6630"
+    },
+    {
+        "name": "Spiraling Trees",
+        "start": "-1079,-6630",
+        "hidden": true,
+        "end": "-1345,-6461"
     }
 ]
