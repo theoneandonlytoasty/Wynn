@@ -1274,7 +1274,7 @@
         "end": "21,-5273"
     },
     {
-        "name": "Orc Camp",
+        "name": "Gert Camp",
         "start": "30,-5447",
         "hidden": true,
         "end": "-83,-5605"
@@ -1322,7 +1322,7 @@
         "end": "3,-4509"
     },
     {
-        "name": "Aldorie’s Arch",
+        "name": "Aldorei’s Arch",
         "start": "33,-4367",
         "hidden": true,
         "end": "107,-4519"
@@ -1586,7 +1586,7 @@
         "end": "341,-4838"
     },
     {
-        "name": "Koltron’s Cave",
+        "name": "Krolton’s Cave",
         "start": "341,-4841",
         "hidden": true,
         "end": "438,-4962"
