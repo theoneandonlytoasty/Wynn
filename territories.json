@@ -830,19 +830,19 @@
         "end": "-1607,-4526"
     },
     {
-        "name": "Green Gert Camp",
+        "name": "Green Camp",
         "start": "-1930,-5099",
         "hidden": true,
         "end": "-1816,-4968"
     },
     {
-        "name": "Gerten Lake",
+        "name": "Orc Lake",
         "start": "-1933,-4962",
         "hidden": true,
         "end": "-1816,-4854"
     },
     {
-        "name": "Gerten Road",
+        "name": "Orc Road",
         "start": "-1927,-4852",
         "hidden": true,
         "end": "-1815,-4700"
@@ -854,13 +854,13 @@
         "end": "-1690,-4969"
     },
     {
-        "name": "Black Gert Camp",
+        "name": "Black Camp",
         "start": "-1800,-4962",
         "hidden": true,
         "end": "-1695,-4854"
     },
     {
-        "name": "Red Gert Camp",
+        "name": "Red Camp",
         "start": "-1800,-4852",
         "hidden": true,
         "end": "-1670,-4684"
@@ -902,7 +902,7 @@
         "end": "-1476,-4719"
     },
     {
-        "name": "Gerten Fortress",
+        "name": "orc Fortress",
         "start": "-1403,-4869",
         "hidden": true,
         "end": "-1284,-4748"
