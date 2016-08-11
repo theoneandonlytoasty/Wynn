@@ -1860,5 +1860,11 @@
         "start": "-744,-528",
         "hidden":true,
         "end": "-965,-264"
+    },
+    {
+        "name": "Dernal Jungle Upper",
+        "start": "-970,-795",
+        "hidden":true,
+        "end": "-900,-547"
     }
 ]
