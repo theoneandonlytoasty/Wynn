@@ -1850,9 +1850,15 @@
         "end": "-1345,-6461"
     },
     {
-        "name": "Dernal Jungle",
+        "name": "Dernal Jungle Lower",
         "start": "-737,-317",
         "hidden": true,
         "end": "-502,-530"
+    },
+    {
+        "name": "Dernal Jungle Mid",
+        "start": "-744,-528",
+        "hidden":true,
+        "end": "-965,-264"
     }
 ]
