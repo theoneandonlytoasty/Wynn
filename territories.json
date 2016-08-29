@@ -1,1870 +1,1662 @@
 [
-    {
-        "name": "Ragni Main Entrance",
-        "start": "-747,-1530",
-        "end": "-616,-1652"
-    },
-    {
-        "name": "Emerald Trail",
-        "start": "-615,-1530",
-        "end": "-436,-1652"
-    },
-    {
-        "name": "Nivla Forest Entrance",
-        "start": "-435,-1530",
-        "end": "-372,-1652"
-    },
-    {
-        "name": "Ragni North Entrance",
-        "start": "-944,-1761",
-        "end": "-818,-1859"
-    },
-    {
-        "name": "Katoa Ranch",
-        "start": "-914,-1860",
-        "end": "-762,-1940"
-    },
-    {
-        "name": "Ragni North Suburbs",
-        "start": "-817,-1859",
-        "end": "-762,-1761"
-    },
-    {
-        "name": "Ragni East Suburbs",
-        "start": "-747,-1653",
-        "end": "-616,-1776"
-    },
-    {
-        "name": "Ragni Plains",
-        "start": "-747,-1776",
-        "end": "-605,-1945"
-    },
-    {
-        "name": "Coastal Trail",
-        "start": "-747,-1946",
-        "end": "-565,-2059"
-    },
-    {
-        "name": "Maltic Coast",
-        "start": "-564,-2059",
-        "end": "-351,-1946"
-    },
-    {
-        "name": "Maltic",
-        "start": "-564,-1945",
-        "end": "-475,-1882"
-    },
-    {
-        "name": "Maltic Plains",
-        "start": "-564,-1883",
-        "end": "-436,-1653"
-    },
-    {
-        "name": "Plains",
-        "start": "-435,-1883",
-        "end": "-270,-1653"
-    },
-    {
-        "name": "Pigmen Ravines Entrance",
-        "start": "-924,-1398",
-        "end": "-784,-1307"
-    },
-    {
-        "name": "Pigmen Ravines",
-        "start": "-784,-1398",
-        "end": "-617,-1317"
-    },
-    {
-        "name": "South Pigmen Ravines",
-        "start": "-898,-1298",
-        "end": "-678,-1221"
-    },
-    {
-        "name": "Little Wood",
-        "start": "-812,-1177",
-        "end": "-636,-1094"
-    },
-    {
-        "name": "Time Valley",
-        "start": "-563,-1261",
-        "end": "-406,-1006"
-    },
-    {
-        "name": "Abandoned Farm",
-        "start": "-577,-1395",
-        "end": "-478,-1335"
-    },
-    {
-        "name": "Animal Bridge",
-        "start": "-324,-1130",
-        "end": "-192,-993"
-    },
-    {
-        "name": "Road to Time Valley",
-        "start": "-461,-1525",
-        "end": "-359,-1412"
-    },
-    {
-        "name": "Elkurn Fields",
-        "start": "-357,-1325",
-        "end": "-97,-1141"
-    },
-    {
-        "name": "Mt. Wynn",
-        "start": "-250,-2070",
-        "end": "20,-1960"
-    },
-    {
-        "name": "Nivla Forest",
-        "start": "-325,-1624",
-        "end": "-196,-1460"
-    },
-    {
-        "name": "Nivla Forest Exit",
-        "start": "-175,-1630",
-        "end": "-105,-1514"
-    },
-    {
-        "name": "South Nivla Forest",
-        "start": "-350,-1440",
-        "end": "-99,-1330"
-    },
-    {
-        "name": "North Nivla Forest",
-        "start": "-194,-1632",
-        "end": "-86,-1800"
-    },
-    {
-        "name": "Elkurn",
-        "start": "-98,-1250",
-        "end": "62,-1080"
-    },
-    {
-        "name": "Road to Elkurn",
-        "start": "-89,-1481",
-        "end": "2,-1267"
-    },
-    {
-        "name": "Corrupted Road",
-        "start": "22,-1479",
-        "end": "96,-1261"
-    },
-    {
-        "name": "Nether Gate",
-        "start": "106,-1341",
-        "end": "342,-1222"
-    },
-    {
-        "name": "Detlas Far Suburbs",
-        "start": "29,-1657",
-        "end": "188,-1500"
-    },
-    {
-        "name": "Detlas Suburbs",
-        "start": "188,-1657",
-        "end": "300,-1500"
-    },
-    {
-        "name": "Detlas Close Suburbs",
-        "start": "300,-1657",
-        "end": "389,-1500"
-    },
-    {
-        "name": "Detlas",
-        "start": "402,-1657",
-        "end": "536,-1518"
-    },
-    {
-        "name": "Farmers Valley",
-        "start": "-460,-1946",
-        "end": "-332,-1898"
-    },
-    {
-        "name": "Nivla Forest Edge",
-        "start": "-74,-1777",
-        "end": "-3,-1485"
-    },
-    {
-        "name": "Battle Tower",
-        "start": "-400,-450",
-        "end": "-315,-330"
-    },
-    {
-        "name": "Half Moon Island",
-        "start": "900,-2660",
-        "end": "1100,-2480"
-    },
-    {
-        "name": "Mage Island",
-        "start": "860,-2880",
-        "end": "930,-2810"
-    },
-    {
-        "name": "Twain Lake",
-        "start": "0,-330",
-        "end": "80,-510"
-    },
-    {
-        "name": "Twain Mansion",
-        "start": "95,-407",
-        "end": "140,-310"
-    },
-    {
-        "name": "Bob's Tomb",
-        "start": "246,-747",
-        "end": "360,-867"
-    },
-    {
-        "name": "Nesaak Plains South East",
-        "start": "76,-757",
-        "end": "230,-660"
-    },
-    {
-        "name": "Nesaak Plains South West",
-        "start": "70,-820",
-        "end": "-110,-625"
-    },
-    {
-        "name": "Nesaak Plains North East",
-        "start": "110,-873",
-        "end": "240,-1035"
-    },
-    {
-        "name": "Nesaak Plains Lower North West",
-        "start": "70,-834",
-        "end": "-120,-910"
-    },
-    {
-        "name": "Nesaak Plains Upper North West",
-        "start": "70,-950",
-        "end": "-140,-1060"
-    },
-    {
-        "name": "Nesaak Village",
-        "start": "75,-850",
-        "end": "160,-760"
-    },
-    {
-        "name": "Nesaak Bridge Transition",
-        "start": "-115,-630",
-        "end": "-240,-780"
-    },
-    {
-        "name": "Nesaak Plains Mid North West",
-        "start": "-140,-860",
-        "end": "-180,-980"
-    },
-    {
-        "name": "Great Bridge Nesaak",
-        "start": "-275,-620",
-        "end": "-390,-790"
-    },
-    {
-        "name": "Great Bridge Jungle",
-        "start": "-395,-790",
-        "end": "-515,-610"
-    },
-    {
-        "name": "Jungle Lower",
-        "start": "-515,-610",
-        "end": "-600,-790"
-    },
-    {
-        "name": "Jungle Mid",
-        "start": "-600,-610",
-        "end": "-670,-780"
-    },
-    {
-        "name": "Jungle Upper",
-        "start": "-671,-779",
-        "end": "-810,-630"
-    },
-    {
-        "name": "Jungle Lake",
-        "start": "-599,-789",
-        "end": "-680,-940"
-    },
-    {
-        "name": "Temple of Legends",
-        "start": "-631,-973",
-        "end": "-745,-1093"
-    },
-    {
-        "name": "City of Troms",
-        "start": "-726,-970",
-        "end": "-899,-826"
-    },
-    {
-        "name": "Rymek East Lower",
-        "start": "1210,-1270",
-        "end": "1400,-1390"
-    },
-    {
-        "name": "Rymek East Mid",
-        "start": "1211,-1410",
-        "end": "1480,-1580"
-    },
-    {
-        "name": "Rymek East Upper",
-        "start": "1479,-1579",
-        "end": "1210,-1780"
-    },
-    {
-        "name": "Rymek West Lower",
-        "start": "1209,-1269",
-        "end": "1020,-1380"
-    },
-    {
-        "name": "Rymek West Mid",
-        "start": "1211,-1410",
-        "end": "1000,-1530"
-    },
-    {
-        "name": "Rymek West Upper",
-        "start": "1190,-1665",
-        "end": "975,-1540"
-    },
-    {
-        "name": "Desert East Upper",
-        "start": "1260,-2170",
-        "end": "1450,-2370"
-    },
-    {
-        "name": "Desert East Mid",
-        "start": "1260,-2170",
-        "end": "1450,-2020"
-    },
-    {
-        "name": "Desert East Lower",
-        "start": "1450,-2020",
-        "end": "1270,-1785"
-    },
-    {
-        "name": "Desert Upper",
-        "start": "990,-2270",
-        "end": "1195,-2120"
-    },
-    {
-        "name": "Desert Mid-Upper",
-        "start": "1195,-2120",
-        "end": "1060,-1935"
-    },
-    {
-        "name": "Desert Mid-Lower",
-        "start": "1060,-1935",
-        "end": "1210,-1810"
-    },
-    {
-        "name": "Desert Lower",
-        "start": "1210,-1810",
-        "end": "1040,-1680"
-    },
-    {
-        "name": "Almuj City",
-        "start": "1050,-1900",
-        "end": "840,-2060"
-    },
-    {
-        "name": "Mummy's Tomb",
-        "start": "990,-2270",
-        "end": "1120,-2400"
-    },
-    {
-        "name": "Desert West Upper",
-        "start": "990,-2270",
-        "end": "895,-2140"
-    },
-    {
-        "name": "Desert West Lower",
-        "start": "1040,-1681",
-        "end": "900,-1870"
-    },
-    {
-        "name": "Savannah East Lower",
-        "start": "775,-1675",
-        "end": "890,-1860"
-    },
-    {
-        "name": "Savannah East Upper",
-        "start": "750,-2060",
-        "end": "820,-1895"
-    },
-    {
-        "name": "Savannah West Lower",
-        "start": "775,-1675",
-        "end": "630,-1830"
-    },
-    {
-        "name": "Savannah West Upper",
-        "start": "750,-2060",
-        "end": "570,-1870"
-    },
-    {
-        "name": "Bremminglar",
-        "start": "760,-2070",
-        "end": "615,-2120"
-    },
-    {
-        "name": "Lion Lair",
-        "start": "890,-2140",
-        "end": "790,-2320"
-    },
-    {
-        "name": "Nemract Town",
-        "start": "10,-2070",
-        "end": "210,-2215"
-    },
-    {
-        "name": "Plains Coast",
-        "start": "5,-2215",
-        "end": "-320,-2090"
-    },
-    {
-        "name": "Nemract Road",
-        "start": "20,-2065",
-        "end": "180,-1870"
-    },
-    {
-        "name": "Nemract Plains West",
-        "start": "5,-1960",
-        "end": "-100,-1810"
-    },
-    {
-        "name": "Nemract Plains East",
-        "start": "180,-1870",
-        "end": "20,-1810"
-    },
-    {
-        "name": "Ancient Nemract",
-        "start": "180,-1870",
-        "end": "255,-1830"
-    },
-    {
-        "name": "Nemract Cathedral",
-        "start": "385,-2180",
-        "end": "270,-2030"
-    },
-    {
-        "name": "Cathedral Harbour",
-        "start": "385,-2180",
-        "end": "570,-1950"
-    },
-    {
-        "name": "The Bear Zoo",
-        "start": "-320,-2510",
-        "end": "-410,-2390"
-    },
-    {
-        "name": "Rooster Island",
-        "start": "-130,-2495",
-        "end": "-90,-2440"
-    },
-    {
-        "name": "Zhight Island",
-        "start": "-520,-2870",
-        "end": "-440,-2795"
-    },
-    {
-        "name": "Selchar",
-        "start": "-100,-3070",
-        "end": "210,-3270"
-    },
-    {
-        "name": "Durum Isles Center",
-        "start": "480,-2940",
-        "end": "400,-2820"
-    },
-    {
-        "name": "Durum Isles Upper",
-        "start": "500,-2950",
-        "end": "565,-2905"
-    },
-    {
-        "name": "Durum Isles East",
-        "start": "450,-2810",
-        "end": "520,-2770"
-    },
-    {
-        "name": "Durum Isles Lower",
-        "start": "370,-2780",
-        "end": "320,-2830"
-    },
-    {
-        "name": "Pirate Town",
-        "start": "-740,-3220",
-        "end": "-620,-3050"
-    },
-    {
-        "name": "Skiens Island",
-        "start": "350,-3540",
-        "end": "410,-3420"
-    },
-    {
-        "name": "Dujgon Nation",
-        "start": "1000,-3550",
-        "end": "925,-3380"
-    },
-    {
-        "name": "Nodguj Nation",
-        "start": "695,-3210",
-        "end": "880,-3440"
-    },
-    {
-        "name": "Dead Island North East",
-        "start": "870,-3920",
-        "end": "980,-3990"
-    },
-    {
-        "name": "Dead Island South East",
-        "start": "870,-3920",
-        "end": "930,-3810"
-    },
-    {
-        "name": "Dead Island North West",
-        "start": "870,-3920",
-        "end": "810,-4040"
-    },
-    {
-        "name": "Dead Island South West",
-        "start": "870,-3920",
-        "end": "710,-3810"
-    },
-    {
-        "name": "Maro Peaks",
-        "start": "250,-4050",
-        "end": "120,-3890"
-    },
-    {
-        "name": "Volcano Upper",
-        "start": "-920,-3550",
-        "end": "-780,-3830"
-    },
-    {
-        "name": "Volcano Lower",
-        "start": "-930,-3530",
-        "end": "-1140,-3790"
-    },
-    {
-        "name": "Tree Island",
-        "start": "-460,-3850",
-        "end": "-370,-3770"
-    },
-    {
-        "name": "Ternaves",
-        "start": "770,-1675",
-        "end": "880,-1540"
-    },
-    {
-        "name": "Ternaves Plains Upper",
-        "start": "770,-1675",
-        "end": "655,-1430"
-    },
-    {
-        "name": "Ternaves Plains Lower",
-        "start": "655,-1430",
-        "end": "880,-1330"
-    },
-    {
-        "name": "Mining Base Upper",
-        "start": "880,-1330",
-        "end": "670,-1225"
-    },
-    {
-        "name": "Mining Base Lower",
-        "start": "870,-1130",
-        "end": "670,-1225"
-    },
-    {
-        "name": "Nesaak Transition",
-        "start": "330,-1040",
-        "end": "75,-1145"
-    },
-    {
-        "name": "Angry Village",
-        "start": "330,-1040",
-        "end": "450,-1170"
-    },
-    {
-        "name": "Nether Plains Lower",
-        "start": "75,-1145",
-        "end": "325,-1210"
-    },
-    {
-        "name": "Plains Lake",
-        "start": "395,-1365",
-        "end": "550,-1190"
-    },
-    {
-        "name": "Mine Base Plains",
-        "start": "550,-1190",
-        "end": "650,-1430"
-    },
-    {
-        "name": "Detlas Savannah Transition",
-        "start": "545,-1520",
-        "end": "650,-1670"
-    },
-    {
-        "name": "Nether Plains Upper",
-        "start": "115,-1360",
-        "end": "390,-1495"
-    },
-    {
-        "name": "Detlas Trail East Plains",
-        "start": "200,-1820",
-        "end": "510,-1675"
-    },
-    {
-        "name": "Detlas Trail West Plains",
-        "start": "25,-1660",
-        "end": "200,-1800"
-    },
-    {
-        "name": "Llevigar Entrance",
-        "start": "-2048,-4278",
-        "hidden": true,
-        "end": "-1932,-4403"
-    },
-    {
-        "name": "Llevigar Gate East",
-        "start": "-1932,-4648",
-        "hidden": true,
-        "end": "-2006,-4746"
-    },
-    {
-        "name": "Llevigar Gate West",
-        "start": "-2023,-4746",
-        "hidden": true,
-        "end": "-2097,-4644"
-    },
-    {
-        "name": "Llevigar Farm Plains East",
-        "start": "-2009,-4747",
-        "hidden": true,
-        "end": "-1931,-4828"
-    },
-    {
-        "name": "Llevigar Farm Plains West",
-        "start": "-2023,-4746",
-        "hidden": true,
-        "end": "-2096,-4828"
-    },
-    {
-        "name": "Hive",
-        "start": "381,-5413",
-        "hidden": true,
-        "end": "286,-5593"
-    },
-    {
-        "name": "Cinfras",
-        "start": "-534,-4807",
-        "hidden": true,
-        "end": "-375,-5088"
-    },
-    {
-        "name": "Llevigar Plains East Lower",
-        "start": "-2024,-4831",
-        "hidden": true,
-        "end": "-1937,-4909"
-    },
-    {
-        "name": "Llevigar  Plains West Lower",
-        "start": "-2031,-4831",
-        "hidden": true,
-        "end": "-2121,-4909"
-    },
-    {
-        "name": "Llevigar  Plains East Upper",
-        "start": "-2038,-4912",
-        "hidden": true,
-        "end": "-2131,-5000"
-    },
-    {
-        "name": "Llevigar  Plains West Upper",
-        "start": "-2031,-4912",
-        "hidden": true,
-        "end": "-1940,-5000"
-    },
-    {
-        "name": "Swamp West Lower",
-        "start": "-2045,-5003",
-        "hidden": true,
-        "end": "-2134,-5075"
-    },
-    {
-        "name": "Swamp East Lower",
-        "start": "-2028,-5003",
-        "hidden": true,
-        "end": "-1956,-5074"
-    },
-    {
-        "name": "Swamp East Mid",
-        "start": "-1955,-5081",
-        "hidden": true,
-        "end": "-2028,-5186"
-    },
-    {
-        "name": "Swamp West Mid",
-        "start": "-2045,-5082",
-        "hidden": true,
-        "end": "-2132,-5186"
-    },
-    {
-        "name": "Swamp East Mid-Upper",
-        "start": "-2132,-5190",
-        "hidden": true,
-        "end": "-2049,-5309"
-    },
-    {
-        "name": "Swamp West Mid-Upper",
-        "start": "-2028,-5188",
-        "hidden": true,
-        "end": "-1955,-5309"
-    },
-    {
-        "name": "Swamp East Upper",
-        "start": "-2132,-5312",
-        "hidden": true,
-        "end": "-2049,-5419"
-    },
-    {
-        "name": "Swamp West Upper",
-        "start": "-1955,-5311",
-        "hidden": true,
-        "end": "-2028,-5419"
-    },
-    {
-        "name": "Swamp Dark Forest Transition Lower",
-        "start": "-1519,-5134",
-        "hidden": true,
-        "end": "-1631,-5288"
-    },
-    {
-        "name": "Swamp Dark Forest Transition Mid",
-        "start": "-1519,-5291",
-        "hidden": true,
-        "end": "-1626,-5492"
-    },
-    {
-        "name": "Swamp Dark Forest Transition Upper",
-        "start": "-1519,-5492",
-        "hidden": true,
-        "end": "-1626,-5607"
-    },
-    {
-        "name": "Swamp Lower",
-        "start": "-1649,-5134",
-        "hidden": true,
-        "end": "-1763,-5241"
-    },
-    {
-        "name": "Entrance to Olux",
-        "start": "-1649,-5246",
-        "hidden": true,
-        "end": "-1764,-5396"
-    },
-    {
-        "name": "Olux",
-        "start": "-1810,-5397",
-        "hidden": true,
-        "end": "-1668,-5597"
-    },
-    {
-        "name": "Swamp Mountain Base",
-        "start": "-1776,-5134",
-        "hidden": true,
-        "end": "-1898,-5240"
-    },
-    {
-        "name": "Swamp Plains Basin",
-        "start": "-1776,-5246",
-        "hidden": true,
-        "end": "-1898,-5396"
-    },
-    {
-        "name": "Swamp Mountain Transition Lower",
-        "start": "-2173,-5466",
-        "hidden": true,
-        "end": "-2128,-5603"
-    },
-    {
-        "name": "Swamp Mountain Transition Mid",
-        "start": "-2127,-5466",
-        "hidden": true,
-        "end": "-2066,-5603"
-    },
-    {
-        "name": "Swamp Mountain Transition Mid-Upper",
-        "start": "-2065,-5466",
-        "hidden": true,
-        "end": "-1982,-5603"
-    },
-    {
-        "name": "Swamp Mountain Transition Upper",
-        "start": "-1981,-5466",
-        "hidden": true,
-        "end": "-1889,-5603"
-    },
-    {
-        "name": "Quartz Mines South West",
-        "start": "-1776,-4352",
-        "hidden": true,
-        "end": "-1609,-4524"
-    },
-    {
-        "name": "Quartz Mines South East",
-        "start": "-1391,-4352",
-        "hidden": true,
-        "end": "-1607,-4524"
-    },
-    {
-        "name": "Quartz Mines North West",
-        "start": "-1776,-4664",
-        "hidden": true,
-        "end": "-1609,-4526"
-    },
-    {
-        "name": "Quartz Mines North East",
-        "start": "-1391,-4664",
-        "hidden": true,
-        "end": "-1607,-4526"
-    },
-    {
-        "name": "Green Camp",
-        "start": "-1930,-5099",
-        "hidden": true,
-        "end": "-1816,-4968"
-    },
-    {
-        "name": "Orc Lake",
-        "start": "-1933,-4962",
-        "hidden": true,
-        "end": "-1816,-4854"
-    },
-    {
-        "name": "Orc Road",
-        "start": "-1927,-4852",
-        "hidden": true,
-        "end": "-1815,-4700"
-    },
-    {
-        "name": "Meteor Crater",
-        "start": "-1800,-5099",
-        "hidden": true,
-        "end": "-1690,-4969"
-    },
-    {
-        "name": "Black Camp",
-        "start": "-1800,-4962",
-        "hidden": true,
-        "end": "-1695,-4854"
-    },
-    {
-        "name": "Red Camp",
-        "start": "-1800,-4852",
-        "hidden": true,
-        "end": "-1670,-4684"
-    },
-    {
-        "name": "Bucie North West",
-        "start": "-1688,-5099",
-        "hidden": true,
-        "end": "-1608,-4969"
-    },
-    {
-        "name": "Bucie South West",
-        "start": "-1688,-4962",
-        "hidden": true,
-        "end": "-1611,-4854"
-    },
-    {
-        "name": "Llevigar Farm",
-        "start": "-1663,-4849",
-        "hidden": true,
-        "end": "-1556,-4714"
-    },
-    {
-        "name": "Bucie North East",
-        "start": "-1603,-4969",
-        "hidden": true,
-        "end": "-1529,-5100"
-    },
-    {
-        "name": "Bucie South East",
-        "start": "-1603,-4963",
-        "hidden": true,
-        "end": "-1527,-4853"
-    },
-    {
-        "name": "Pre-Light Forest Transition",
-        "start": "-1553,-4850",
-        "hidden": true,
-        "end": "-1476,-4719"
-    },
-    {
-        "name": "Leadin Fortress",
-        "start": "-1403,-4869",
-        "hidden": true,
-        "end": "-1284,-4748"
-    },
-    {
-        "name": "Road To Light Forest",
-        "start": "-1387,-4595",
-        "hidden": true,
-        "end": "-1252,-4713"
-    },
-    {
-        "name": "Light Forest Entrance",
-        "start": "-1243,-4574",
-        "hidden": true,
-        "end": "-1157,-4724"
-    },
-    {
-        "name": "Efelim Village",
-        "start": "-1020,-4943",
-        "hidden": true,
-        "end": "-1134,-5078"
-    },
-    {
-        "name": "Efelim South Plains",
-        "start": "-1030,-4940",
-        "hidden": true,
-        "end": "-1134,-4847"
-    },
-    {
-        "name": "Efelim East Plains",
-        "start": "-1014,-4944",
-        "hidden": true,
-        "end": "-949,-5079"
-    },
-    {
-        "name": "Efelim South East Plains",
-        "start": "-949,-4942",
-        "hidden": true,
-        "end": "-1014,-4847"
-    },
-    {
-        "name": "Light Forest North Entrance",
-        "start": "-1134,-4708",
-        "hidden": true,
-        "end": "-1030,-4845"
-    },
-    {
-        "name": "Light Forest Entrance",
-        "start": "-1040,-4706",
-        "hidden": true,
-        "end": "-1134,-4552"
-    },
-    {
-        "name": "Light Forest South Entrance",
-        "start": "-1134,-4548",
-        "hidden": true,
-        "end": "-1038,-4426"
-    },
-    {
-        "name": "Aldorei Valley West Entrance",
-        "start": "-736,-4428",
-        "hidden": true,
-        "end": "-802,-4553"
-    },
-    {
-        "name": "Light Forest South Exit",
-        "start": "-646,-4699",
-        "hidden": true,
-        "end": "-733,-4559"
-    },
-    {
-        "name": "Light Forest North Exit",
-        "start": "-733,-4707",
-        "hidden": true,
-        "end": "-654,-4848"
-    },
-    {
-        "name": "Light Forest West Lower",
-        "start": "-1014,-4428",
-        "hidden": true,
-        "end": "-929,-4549"
-    },
-    {
-        "name": "Light Forest West Mid",
-        "start": "-929,-4552",
-        "hidden": true,
-        "end": "-1014,-4706"
-    },
-    {
-        "name": "Light Forest West Upper",
-        "start": "-1014,-4708",
-        "hidden": true,
-        "end": "-935,-4845"
-    },
-    {
-        "name": "Light Forest East Upper",
-        "start": "-926,-4842",
-        "hidden": true,
-        "end": "-831,-4945"
-    },
-    {
-        "name": "Light Forest East Mid",
-        "start": "-834,-4839",
-        "hidden": true,
-        "end": "-926,-4708"
-    },
-    {
-        "name": "Light Forest East Lower",
-        "start": "-926,-4700",
-        "hidden": true,
-        "end": "-805,-4552"
-    },
-    {
-        "name": "Hobbit River",
-        "start": "-926,-4550",
-        "hidden": true,
-        "end": "-806,-4428"
-    },
-    {
-        "name": "Mantis Nest",
-        "start": "-736,-4559",
-        "hidden": true,
-        "end": "-802,-4698"
-    },
-    {
-        "name": "Light Forest Canyon",
-        "start": "-738,-4708",
-        "hidden": true,
-        "end": "-818,-4840"
-    },
-    {
-        "name": "Path to Cinfras",
-        "start": "-734,-4842",
-        "hidden": true,
-        "end": "-818,-4953"
-    },
-    {
-        "name": "Lone Farmstead",
-        "start": "-942,-5227",
-        "hidden": true,
-        "end": "-1050,-5116"
-    },
-    {
-        "name": "Gelibord",
-        "start": "-1050,-5244",
-        "hidden": true,
-        "end": "-958,-5342"
-    },
-    {
-        "name": "Gelibord Corrupted Farm",
-        "start": "-1056,-5355",
-        "hidden": true,
-        "end": "-1179,-5448"
-    },
-    {
-        "name": "Gelibord Castle",
-        "start": "-1027,-5470",
-        "hidden": true,
-        "end": "-1180,-5600"
-    },
-    {
-        "name": "Taproot Descent",
-        "start": "-1425,-5407",
-        "hidden": true,
-        "end": "-1194,-5589"
-    },
-    {
-        "name": "Fortress North",
-        "start": "-1452,-5211",
-        "hidden": true,
-        "end": "-1272,-5395"
-    },
-    {
-        "name": "Fortress South",
-        "start": "-1460,-5025",
-        "hidden": true,
-        "end": "-1272,-5210"
-    },
-    {
-        "name": "Mansion of Insanity",
-        "start": "-1237,-5116",
-        "hidden": true,
-        "end": "-1144,-5268"
-    },
-    {
-        "name": "Twisted Housing",
-        "start": "-1133,-5116",
-        "hidden": true,
-        "end": "-1053,-5272"
-    },
-    {
-        "name": "Lexdales Prison",
-        "start": "-873,-5518",
-        "hidden": true,
-        "end": "-772,-5585"
-    },
-    {
-        "name": "Path To Prison",
-        "start": "-771,-5504",
-        "hidden": true,
-        "end": "-899,-5412"
-    },
-    {
-        "name": "Gromblins Hideout",
-        "start": "-896,-5408",
-        "hidden": true,
-        "end": "-792,-5233"
-    },
-    {
-        "name": "Abandoned Church",
-        "start": "-896,-5232",
-        "hidden": true,
-        "end": "-802,-5102"
-    },
-    {
-        "name": "Mesquis Tower",
-        "start": "-834,-5078",
-        "hidden": true,
-        "end": "-727,-4999"
-    },
-    {
-        "name": "Corrupted Impact",
-        "start": "-785,-5229",
-        "hidden": true,
-        "end": "-725,-5102"
-    },
-    {
-        "name": "Banshees Cave",
-        "start": "-653,-5231",
-        "hidden": true,
-        "end": "-785,-5401"
-    },
-    {
-        "name": "Shanjugin’s River",
-        "start": "-659,-5424",
-        "hidden": true,
-        "end": "-766,-5508"
-    },
-    {
-        "name": "Dark Forest Village",
-        "start": "-723,-5229",
-        "hidden": true,
-        "end": "-574,-5147"
-    },
-    {
-        "name": "Graveyard South",
-        "start": "-648,-5311",
-        "hidden": true,
-        "end": "-567,-5234"
-    },
-    {
-        "name": "Graveyard North",
-        "start": "-648,-5314",
-        "hidden": true,
-        "end": "-567,-5400"
-    },
-    {
-        "name": "Lexdale",
-        "start": "-650,-5511",
-        "hidden": true,
-        "end": "-562,-5406"
-    },
-    {
-        "name": "Arachnida Cave",
-        "start": "-489,-5279",
-        "hidden": true,
-        "end": "-549,-5398"
-    },
-    {
-        "name": "Black Magic",
-        "start": "-471,-5405",
-        "hidden": true,
-        "end": "-549,-5512"
-    },
-    {
-        "name": "Corrupted Hand",
-        "start": "-598,-5580",
-        "hidden": true,
-        "end": "-454,-5518"
-    },
-    {
-        "name": "Cinfras Entrance",
-        "start": "-555,-4996",
-        "hidden": true,
-        "end": "-717,-4868"
-    },
-    {
-        "name": "Abandoned Tower",
-        "start": "-288,-5411",
-        "hidden": true,
-        "end": "-392,-5601"
-    },
-    {
-        "name": "Corrupted Village",
-        "start": "-288,-5409",
-        "hidden": true,
-        "end": "-392,-5294"
-    },
-    {
-        "name": "Dark Forest Cinfras Transition",
-        "start": "-290,-5292",
-        "hidden": true,
-        "end": "-392,-5116"
-    },
-    {
-        "name": "Guild Hall",
-        "start": "-349,-5093",
-        "hidden": true,
-        "end": "-137,-4814"
-    },
-    {
-        "name": "Aldorei Valley South Entrance",
-        "start": "-130,-4641",
-        "hidden": true,
-        "end": "-222,-4509"
-    },
-    {
-        "name": "Cinfras’s Small Farm",
-        "start": "-224,-4793",
-        "hidden": true,
-        "end": "-130,-4643"
-    },
-    {
-        "name": "Cinfras County Lower",
-        "start": "3,-4760",
-        "hidden": true,
-        "end": "-127,-4640"
-    },
-    {
-        "name": "Cinfras County Mid-Lower",
-        "start": "-127,-4761",
-        "hidden": true,
-        "end": "3,-4895"
-    },
-    {
-        "name": "Cinfras County Mid-Upper",
-        "start": "-127,-4896",
-        "hidden": true,
-        "end": "3,-5050"
-    },
-    {
-        "name": "Cinfras County Upper",
-        "start": "-127,-5155",
-        "hidden": true,
-        "end": "3,-5051"
-    },
-    {
-        "name": "Gylia Lake South East",
-        "start": "30,-5157",
-        "hidden": true,
-        "end": "-127,-5271"
-    },
-    {
-        "name": "Gylia Lake South West",
-        "start": "-130,-5173",
-        "hidden": true,
-        "end": "-225,-5271"
-    },
-    {
-        "name": "Gylia Lake North West",
-        "start": "-218,-5427",
-        "hidden": true,
-        "end": "-130,-5273"
-    },
-    {
-        "name": "Gylia Lake North East",
-        "start": "-128,-5416",
-        "hidden": true,
-        "end": "21,-5273"
-    },
-    {
-        "name": "Gert Camp",
-        "start": "30,-5447",
-        "hidden": true,
-        "end": "-83,-5605"
-    },
-    {
-        "name": "Jitak’s Farm",
-        "start": "-122,-5430",
-        "hidden": true,
-        "end": "-218,-5567"
-    },
-    {
-        "name": "Aldorei Valley Lower",
-        "start": "-714,-4395",
-        "hidden": true,
-        "end": "-559,-4499"
-    },
-    {
-        "name": "Aldorei Valley Mid",
-        "start": "-450,-4499",
-        "hidden": true,
-        "end": "-557,-4395"
-    },
-    {
-        "name": "Aldorei Valley Upper",
-        "start": "-557,-4501",
-        "hidden": true,
-        "end": "-450,-4661"
-    },
-    {
-        "name": "Aldorei’s River",
-        "start": "-437,-4656",
-        "hidden": true,
-        "end": "-338,-4756"
-    },
-    {
-        "name": "Aldorei’s Waterfall",
-        "start": "-237,-4514",
-        "hidden": true,
-        "end": "-321,-4648"
-    },
-    {
-        "name": "Aldorei’s North Exit",
-        "start": "-127,-4639",
-        "hidden": true,
-        "end": "3,-4509"
-    },
-    {
-        "name": "Aldorei’s Arch",
-        "start": "33,-4367",
-        "hidden": true,
-        "end": "107,-4519"
-    },
-    {
-        "name": "Path To The Arch",
-        "start": "35,-4521",
-        "hidden": true,
-        "end": "107,-4641"
-    },
-    {
-        "name": "Ghostly Path",
-        "start": "35,-4643",
-        "hidden": true,
-        "end": "107,-4753"
-    },
-    {
-        "name": "Burning Farm",
-        "start": "107,-4755",
-        "hidden": true,
-        "end": "35,-4857"
-    },
-    {
-        "name": "Burning Airship",
-        "start": "35,-4859",
-        "hidden": true,
-        "end": "107,-4955"
-    },
-    {
-        "name": "Cinfras Thanos Transition",
-        "start": "98,-4957",
-        "hidden": true,
-        "end": "35,-5046"
-    },
-    {
-        "name": "Thanos",
-        "start": "51,-5189",
-        "hidden": true,
-        "end": "194,-5295"
-    },
-    {
-        "name": "Path To Thanos",
-        "start": "98,-5049",
-        "hidden": true,
-        "end": "35,-5146"
-    },
-    {
-        "name": "Path To Military Base",
-        "start": "51,-5297",
-        "hidden": true,
-        "end": "166,-5391"
-    },
-    {
-        "name": "Military Base",
-        "start": "104,-5393",
-        "hidden": true,
-        "end": "166,-5518"
-    },
-    {
-        "name": "Military Base Upper",
-        "start": "168,-5408",
-        "hidden": true,
-        "end": "250,-5518"
-    },
-    {
-        "name": "Military Base Lower",
-        "start": "244,-5407",
-        "hidden": true,
-        "end": "168,-5315"
-    },
-    {
-        "name": "Path To Ozoth’s Spire Lower",
-        "start": "260,-5298",
-        "hidden": true,
-        "end": "199,-5169"
-    },
-    {
-        "name": "Path To Ozoth’s Spire Mid",
-        "start": "199,-5164",
-        "hidden": true,
-        "end": "260,-5042"
-    },
-    {
-        "name": "Path To Ozoth’s Spire Upper",
-        "start": "194,-5165",
-        "hidden": true,
-        "end": "111,-5045"
-    },
-    {
-        "name": "Bandit Cave Lower",
-        "start": "111,-5043",
-        "hidden": true,
-        "end": "194,-4958"
-    },
-    {
-        "name": "Bandit Cave Upper",
-        "start": "194,-4956",
-        "hidden": true,
-        "end": "111,-4872"
-    },
-    {
-        "name": "Canyon Entrance Waterfall",
-        "start": "110,-4869",
-        "hidden": true,
-        "end": "194,-4741"
-    },
-    {
-        "name": "Canyon Path North West",
-        "start": "110,-4736",
-        "hidden": true,
-        "end": "194,-4651"
-    },
-    {
-        "name": "Canyon Path South East",
-        "start": "194,-4649",
-        "hidden": true,
-        "end": "115,-4521"
-    },
-    {
-        "name": "Canyon Waterfall North",
-        "start": "115,-4159",
-        "hidden": true,
-        "end": "194,-4380"
-    },
-    {
-        "name": "Canyon Upper North West",
-        "start": "200,-4380",
-        "hidden": true,
-        "end": "265,-4518"
-    },
-    {
-        "name": "Canyon Lower South East",
-        "start": "265,-4521",
-        "hidden": true,
-        "end": "199,-4649"
-    },
-    {
-        "name": "Canyon Path South West",
-        "start": "265,-4652",
-        "hidden": true,
-        "end": "200,-4741"
-    },
-    {
-        "name": "Canyon Path North Mid",
-        "start": "200,-4743",
-        "hidden": true,
-        "end": "264,-4875"
-    },
-    {
-        "name": "Bandit Camp Exit",
-        "start": "264,-4877",
-        "hidden": true,
-        "end": "203,-4971"
-    },
-    {
-        "name": "Canyon Valley South",
-        "start": "263,-4973",
-        "hidden": true,
-        "end": "199,-5035"
-    },
-    {
-        "name": "Thanos Valley West",
-        "start": "250,-5401",
-        "hidden": true,
-        "end": "311,-5315"
-    },
-    {
-        "name": "Thanos Exit",
-        "start": "338,-5310",
-        "hidden": true,
-        "end": "262,-5168"
-    },
-    {
-        "name": "Canyon Walk Way",
-        "start": "271,-5165",
-        "hidden": true,
-        "end": "338,-5041"
-    },
-    {
-        "name": "Canyon Mountain East",
-        "start": "271,-5039",
-        "hidden": true,
-        "end": "337,-4948"
-    },
-    {
-        "name": "Canyon Mountain South",
-        "start": "271,-4946",
-        "hidden": true,
-        "end": "337,-4857"
-    },
-    {
-        "name": "Canyon Waterfall Mid North",
-        "start": "337,-4855",
-        "hidden": true,
-        "end": "271,-4741"
-    },
-    {
-        "name": "Canyon Fortress",
-        "start": "271,-4739",
-        "hidden": true,
-        "end": "338,-4630"
-    },
-    {
-        "name": "Canyon Survivor",
-        "start": "338,-4628",
-        "hidden": true,
-        "end": "269,-4522"
-    },
-    {
-        "name": "Canyon Dropoff",
-        "start": "334,-4518",
-        "hidden": true,
-        "end": "269,-4395"
-    },
-    {
-        "name": "Thanos Exit Upper",
-        "start": "347,-5313",
-        "hidden": true,
-        "end": "438,-5183"
-    },
-    {
-        "name": "Bandits Toll",
-        "start": "438,-5093",
-        "hidden": true,
-        "end": "345,-5181"
-    },
-    {
-        "name": "Wizard Tower North",
-        "start": "438,-5037",
-        "hidden": true,
-        "end": "345,-4966"
-    },
-    {
-        "name": "Mountain Path",
-        "start": "334,-4393",
-        "hidden": true,
-        "end": "276,-4314"
-    },
-    {
-        "name": "Mountain Edge",
-        "start": "437,-4314",
-        "hidden": true,
-        "end": "336,-4392"
-    },
-    {
-        "name": "Cliff Side of the Lost",
-        "start": "340,-4395",
-        "hidden": true,
-        "end": "437,-4508"
-    },
-    {
-        "name": "Valley of the Lost",
-        "start": "435,-4511",
-        "hidden": true,
-        "end": "341,-4670"
-    },
-    {
-        "name": "Temple of the Lost East",
-        "start": "440,-4672",
-        "hidden": true,
-        "end": "341,-4838"
-    },
-    {
-        "name": "Krolton’s Cave",
-        "start": "341,-4841",
-        "hidden": true,
-        "end": "438,-4962"
-    },
-    {
-        "name": "Hive South",
-        "start": "440,-5315",
-        "hidden": true,
-        "end": "560,-5449"
-    },
-    {
-        "name": "Canyon High Path",
-        "start": "562,-5313",
-        "hidden": true,
-        "end": "440,-5191"
-    },
-    {
-        "name": "Cliffside Waterfall",
-        "start": "440,-5183",
-        "hidden": true,
-        "end": "563,-5080"
-    },
-    {
-        "name": "Cliffside Valley",
-        "start": "563,-5079",
-        "hidden": true,
-        "end": "440,-4975"
-    },
-    {
-        "name": "Air Temple Lower",
-        "start": "445,-4972",
-        "hidden": true,
-        "end": "563,-4835"
-    },
-    {
-        "name": "Air Temple Upper",
-        "start": "570,-4833",
-        "hidden": true,
-        "end": "445,-4692"
-    },
-    {
-        "name": "Cliffside Lake",
-        "start": "445,-4689",
-        "hidden": true,
-        "end": "570,-4568"
-    },
-    {
-        "name": "Canyon Of The Lost",
-        "start": "443,-4566",
-        "hidden": true,
-        "end": "570,-4392"
-    },
-    {
-        "name": "Kandon-Beda",
-        "start": "607,-4579",
-        "hidden": true,
-        "end": "760,-4372"
-    },
-    {
-        "name": "Kandon Farm",
-        "start": "710,-4587",
-        "hidden": true,
-        "end": "614,-4682"
-    },
-    {
-        "name": "Cliffside Passage",
-        "start": "699,-4817",
-        "hidden": true,
-        "end": "572,-4691"
-    },
-    {
-        "name": "Cliffside Passage North",
-        "start": "572,-4818",
-        "hidden": true,
-        "end": "700,-4933"
-    },
-    {
-        "name": "Entrance to Thesead North",
-        "start": "572,-4935",
-        "hidden": true,
-        "end": "700,-5028"
-    },
-    {
-        "name": "Entrance to Thesead South",
-        "start": "700,-5030",
-        "hidden": true,
-        "end": "574,-5181"
-    },
-    {
-        "name": "Chained House",
-        "start": "574,-5375",
-        "hidden": true,
-        "end": "699,-5242"
-    },
-    {
-        "name": "Cherry Blossom Forest",
-        "start": "699,-5378",
-        "hidden": true,
-        "end": "575,-5551"
-    },
-    {
-        "name": "Ranol’s Farm",
-        "start": "810,-5551",
-        "hidden": true,
-        "end": "701,-5377"
-    },
-    {
-        "name": "Thesead Suberbs",
-        "start": "703,-5374",
-        "hidden": true,
-        "end": "810,-5216"
-    },
-    {
-        "name": "Thesead",
-        "start": "747,-5104",
-        "hidden": true,
-        "end": "872,-4964"
-    },
-    {
-        "name": "Entrance to Rodoroc",
-        "start": "854,-5257",
-        "hidden": true,
-        "end": "1113,-5367"
-    },
-    {
-        "name": "Eltom",
-        "start": "1029,-5581",
-        "hidden": true,
-        "end": "828,-5376"
-    },
-    {
-        "name": "Molten Heights Portal",
-        "start": "1535,-5067",
-        "hidden": true,
-        "end": "1387,-5366"
-    },
-    {
-        "name": "Lava Lake",
-        "start": "1531,-5553",
-        "hidden": true,
-        "end": "1387,-5369"
-    },
-    {
-        "name": "Lava Lake Bridge",
-        "start": "1230,-5240",
-        "hidden": true,
-        "end": "1379,-5366"
-    },
-    {
-        "name": "Crater Descent",
-        "start": "1383,-5238",
-        "hidden": true,
-        "end": "1230,-5067"
-    },
-    {
-        "name": "Active Volcano",
-        "start": "1233,-5553",
-        "hidden": true,
-        "end": "1379,-5369"
-    },
-    {
-        "name": "Volcanic Slope",
-        "start": "1531,-5637",
-        "hidden": true,
-        "end": "1221,-5555"
-    },
-    {
-        "name": "Ahmsord",
-        "start": "1163,-4462",
-        "hidden": true,
-        "end": "942,-4604"
-    },
-    {
-        "name": "Temple Island",
-        "start": "991,-4643",
-        "hidden": true,
-        "end": "1124,-4750"
-    },
-    {
-        "name": "Snail Island",
-        "start": "1022,-4811",
-        "hidden": true,
-        "end": "958,-4872"
-    },
-    {
-        "name": "Light Realm East",
-        "start": "-240,-6855",
-        "hidden": true,
-        "end": "-45,-6984"
-    },
-    {
-        "name": "Light Realm East Lower",
-        "start": "-243,-6858",
-        "hidden": true,
-        "end": "-542,-6984"
-    },
-    {
-        "name": "Light Realm East Mid",
-        "start": "-566,-6985",
-        "hidden": true,
-        "end": "-860,-6857"
-    },
-    {
-        "name": "Light Realm East Mid-Upper",
-        "start": "-871,-6986",
-        "hidden": true,
-        "end": "-1076,-6855"
-    },
-    {
-        "name": "Light Realm East Upper",
-        "start": "-1079,-6855",
-        "hidden": true,
-        "end": "-1305,-6986"
-    },
-    {
-        "name": "Light Realm Entrance",
-        "start": "-1079,-6635",
-        "hidden": true,
-        "end": "-1343,-6848"
-    },
-    {
-        "name": "Light Realm Entrance Upper",
-        "start": "-1076,-6848",
-        "hidden": true,
-        "end": "-836,-6634"
-    },
-    {
-        "name": "Orphion's Seal",
-        "start": "-249,-6854",
-        "hidden": true,
-        "end": "-539,-6633"
-    },
-    {
-        "name": "Orphion's Seal Upper",
-        "start": "-542,-6854",
-        "hidden": true,
-        "end": "-826,-6633"
-    },
-    {
-        "name": "Light Realm Mushrooms",
-        "start": "-249,-6630",
-        "hidden": true,
-        "end": "-539,-6462"
-    },
-    {
-        "name": "Light Realm Corruption",
-        "start": "-545,-6462",
-        "hidden": true,
-        "end": "-762,-6630"
-    },
-    {
-        "name": "Road to Corruption",
-        "start": "-1077,-6462",
-        "hidden": true,
-        "end": "-764,-6630"
-    },
-    {
-        "name": "Spiraling Trees",
-        "start": "-1079,-6630",
-        "hidden": true,
-        "end": "-1345,-6461"
-    },
-    {
-        "name": "Dernal Jungle Lower",
-        "start": "-737,-317",
-        "hidden": true,
-        "end": "-502,-530"
-    },
-    {
-        "name": "Dernal Jungle Mid",
-        "start": "-744,-528",
-        "hidden":true,
-        "end": "-965,-264"
-    },
-    {
-        "name": "Dernal Jungle Upper",
-        "start": "-970,-795",
-        "hidden":true,
-        "end": "-900,-547"
-    }
+	{
+		"name": "Ragni Main Entrance",
+		"start": "-747,-1530",
+		"end": "-616,-1652"
+	},
+	{
+		"name": "Emerald Trail",
+		"start": "-615,-1530",
+		"end": "-436,-1652"
+	},
+	{
+		"name": "Nivla Forest Entrance",
+		"start": "-435,-1530",
+		"end": "-372,-1652"
+	},
+	{
+		"name": "Ragni North Entrance",
+		"start": "-944,-1761",
+		"end": "-818,-1859"
+	},
+	{
+		"name": "Katoa Ranch",
+		"start": "-914,-1860",
+		"end": "-762,-1940"
+	},
+	{
+		"name": "Ragni North Suburbs",
+		"start": "-817,-1859",
+		"end": "-762,-1761"
+	},
+	{
+		"name": "Ragni East Suburbs",
+		"start": "-747,-1653",
+		"end": "-616,-1776"
+	},
+	{
+		"name": "Ragni Plains",
+		"start": "-747,-1776",
+		"end": "-605,-1945"
+	},
+	{
+		"name": "Coastal Trail",
+		"start": "-747,-1946",
+		"end": "-565,-2059"
+	},
+	{
+		"name": "Maltic Coast",
+		"start": "-564,-2059",
+		"end": "-351,-1946"
+	},
+	{
+		"name": "Maltic",
+		"start": "-564,-1945",
+		"end": "-475,-1882"
+	},
+	{
+		"name": "Maltic Plains",
+		"start": "-564,-1883",
+		"end": "-436,-1653"
+	},
+	{
+		"name": "Plains",
+		"start": "-435,-1883",
+		"end": "-270,-1653"
+	},
+	{
+		"name": "Pigmen Ravines Entrance",
+		"start": "-924,-1398",
+		"end": "-784,-1307"
+	},
+	{
+		"name": "Pigmen Ravines",
+		"start": "-784,-1398",
+		"end": "-617,-1317"
+	},
+	{
+		"name": "South Pigmen Ravines",
+		"start": "-898,-1298",
+		"end": "-678,-1221"
+	},
+	{
+		"name": "Little Wood",
+		"start": "-812,-1177",
+		"end": "-636,-1094"
+	},
+	{
+		"name": "Time Valley",
+		"start": "-563,-1261",
+		"end": "-406,-1006"
+	},
+	{
+		"name": "Abandoned Farm",
+		"start": "-577,-1395",
+		"end": "-478,-1335"
+	},
+	{
+		"name": "Animal Bridge",
+		"start": "-324,-1130",
+		"end": "-192,-993"
+	},
+	{
+		"name": "Road to Time Valley",
+		"start": "-461,-1525",
+		"end": "-359,-1412"
+	},
+	{
+		"name": "Elkurn Fields",
+		"start": "-357,-1325",
+		"end": "-97,-1141"
+	},
+	{
+		"name": "Mt. Wynn",
+		"start": "-250,-2070",
+		"end": "20,-1960"
+	},
+	{
+		"name": "Nivla Forest",
+		"start": "-325,-1624",
+		"end": "-196,-1460"
+	},
+	{
+		"name": "Nivla Forest Exit",
+		"start": "-175,-1630",
+		"end": "-105,-1514"
+	},
+	{
+		"name": "South Nivla Forest",
+		"start": "-350,-1440",
+		"end": "-99,-1330"
+	},
+	{
+		"name": "North Nivla Forest",
+		"start": "-194,-1632",
+		"end": "-86,-1800"
+	},
+	{
+		"name": "Elkurn",
+		"start": "-98,-1250",
+		"end": "62,-1080"
+	},
+	{
+		"name": "Road to Elkurn",
+		"start": "-89,-1481",
+		"end": "2,-1267"
+	},
+	{
+		"name": "Corrupted Road",
+		"start": "22,-1479",
+		"end": "96,-1261"
+	},
+	{
+		"name": "Nether Gate",
+		"start": "106,-1341",
+		"end": "342,-1222"
+	},
+	{
+		"name": "Detlas Far Suburbs",
+		"start": "29,-1657",
+		"end": "188,-1500"
+	},
+	{
+		"name": "Detlas Suburbs",
+		"start": "188,-1657",
+		"end": "300,-1500"
+	},
+	{
+		"name": "Detlas Close Suburbs",
+		"start": "300,-1657",
+		"end": "389,-1500"
+	},
+	{
+		"name": "Detlas",
+		"start": "402,-1657",
+		"end": "536,-1518"
+	},
+	{
+		"name": "Farmers Valley",
+		"start": "-460,-1946",
+		"end": "-332,-1898"
+	},
+	{
+		"name": "Nivla Forest Edge",
+		"start": "-74,-1777",
+		"end": "-3,-1485"
+	},
+	{
+		"name": "Battle Tower",
+		"start": "-400,-450",
+		"end": "-315,-330"
+	},
+	{
+		"name": "Half Moon Island",
+		"start": "900,-2660",
+		"end": "1100,-2480"
+	},
+	{
+		"name": "Mage Island",
+		"start": "860,-2880",
+		"end": "930,-2810"
+	},
+	{
+		"name": "Twain Lake",
+		"start": "0,-330",
+		"end": "80,-510"
+	},
+	{
+		"name": "Twain Mansion",
+		"start": "95,-407",
+		"end": "140,-310"
+	},
+	{
+		"name": "Bob's Tomb",
+		"start": "246,-747",
+		"end": "360,-867"
+	},
+	{
+		"name": "Nesaak Plains South East",
+		"start": "76,-757",
+		"end": "230,-660"
+	},
+	{
+		"name": "Nesaak Plains South West",
+		"start": "70,-820",
+		"end": "-110,-625"
+	},
+	{
+		"name": "Nesaak Plains North East",
+		"start": "110,-873",
+		"end": "240,-1035"
+	},
+	{
+		"name": "Nesaak Plains Lower North West",
+		"start": "70,-834",
+		"end": "-120,-910"
+	},
+	{
+		"name": "Nesaak Plains Upper North West",
+		"start": "70,-950",
+		"end": "-140,-1060"
+	},
+	{
+		"name": "Nesaak Village",
+		"start": "75,-850",
+		"end": "160,-760"
+	},
+	{
+		"name": "Nesaak Bridge Transition",
+		"start": "-115,-630",
+		"end": "-240,-780"
+	},
+	{
+		"name": "Nesaak Plains Mid North West",
+		"start": "-140,-860",
+		"end": "-180,-980"
+	},
+	{
+		"name": "Great Bridge Nesaak",
+		"start": "-275,-620",
+		"end": "-390,-790"
+	},
+	{
+		"name": "Great Bridge Jungle",
+		"start": "-395,-790",
+		"end": "-515,-610"
+	},
+	{
+		"name": "Jungle Lower",
+		"start": "-515,-610",
+		"end": "-600,-790"
+	},
+	{
+		"name": "Jungle Mid",
+		"start": "-600,-610",
+		"end": "-670,-780"
+	},
+	{
+		"name": "Jungle Upper",
+		"start": "-671,-779",
+		"end": "-810,-630"
+	},
+	{
+		"name": "Jungle Lake",
+		"start": "-599,-789",
+		"end": "-680,-940"
+	},
+	{
+		"name": "Temple of Legends",
+		"start": "-631,-973",
+		"end": "-745,-1093"
+	},
+	{
+		"name": "City of Troms",
+		"start": "-726,-970",
+		"end": "-899,-826"
+	},
+	{
+		"name": "Rymek East Lower",
+		"start": "1210,-1270",
+		"end": "1400,-1390"
+	},
+	{
+		"name": "Rymek East Mid",
+		"start": "1211,-1410",
+		"end": "1480,-1580"
+	},
+	{
+		"name": "Rymek East Upper",
+		"start": "1479,-1579",
+		"end": "1210,-1780"
+	},
+	{
+		"name": "Rymek West Lower",
+		"start": "1209,-1269",
+		"end": "1020,-1380"
+	},
+	{
+		"name": "Rymek West Mid",
+		"start": "1211,-1410",
+		"end": "1000,-1530"
+	},
+	{
+		"name": "Rymek West Upper",
+		"start": "1190,-1665",
+		"end": "975,-1540"
+	},
+	{
+		"name": "Desert East Upper",
+		"start": "1260,-2170",
+		"end": "1450,-2370"
+	},
+	{
+		"name": "Desert East Mid",
+		"start": "1260,-2170",
+		"end": "1450,-2020"
+	},
+	{
+		"name": "Desert East Lower",
+		"start": "1450,-2020",
+		"end": "1270,-1785"
+	},
+	{
+		"name": "Desert Upper",
+		"start": "990,-2270",
+		"end": "1195,-2120"
+	},
+	{
+		"name": "Desert Mid-Upper",
+		"start": "1195,-2120",
+		"end": "1060,-1935"
+	},
+	{
+		"name": "Desert Mid-Lower",
+		"start": "1060,-1935",
+		"end": "1210,-1810"
+	},
+	{
+		"name": "Desert Lower",
+		"start": "1210,-1810",
+		"end": "1040,-1680"
+	},
+	{
+		"name": "Almuj City",
+		"start": "1050,-1900",
+		"end": "840,-2060"
+	},
+	{
+		"name": "Mummy's Tomb",
+		"start": "990,-2270",
+		"end": "1120,-2400"
+	},
+	{
+		"name": "Desert West Upper",
+		"start": "990,-2270",
+		"end": "895,-2140"
+	},
+	{
+		"name": "Desert West Lower",
+		"start": "1040,-1681",
+		"end": "900,-1870"
+	},
+	{
+		"name": "Savannah East Lower",
+		"start": "775,-1675",
+		"end": "890,-1860"
+	},
+	{
+		"name": "Savannah East Upper",
+		"start": "750,-2060",
+		"end": "820,-1895"
+	},
+	{
+		"name": "Savannah West Lower",
+		"start": "775,-1675",
+		"end": "630,-1830"
+	},
+	{
+		"name": "Savannah West Upper",
+		"start": "750,-2060",
+		"end": "570,-1870"
+	},
+	{
+		"name": "Bremminglar",
+		"start": "760,-2070",
+		"end": "615,-2120"
+	},
+	{
+		"name": "Lion Lair",
+		"start": "890,-2140",
+		"end": "790,-2320"
+	},
+	{
+		"name": "Nemract Town",
+		"start": "10,-2070",
+		"end": "210,-2215"
+	},
+	{
+		"name": "Plains Coast",
+		"start": "5,-2215",
+		"end": "-320,-2090"
+	},
+	{
+		"name": "Nemract Road",
+		"start": "20,-2065",
+		"end": "180,-1870"
+	},
+	{
+		"name": "Nemract Plains West",
+		"start": "5,-1960",
+		"end": "-100,-1810"
+	},
+	{
+		"name": "Nemract Plains East",
+		"start": "180,-1870",
+		"end": "20,-1810"
+	},
+	{
+		"name": "Ancient Nemract",
+		"start": "180,-1870",
+		"end": "255,-1830"
+	},
+	{
+		"name": "Nemract Cathedral",
+		"start": "385,-2180",
+		"end": "270,-2030"
+	},
+	{
+		"name": "Cathedral Harbour",
+		"start": "385,-2180",
+		"end": "570,-1950"
+	},
+	{
+		"name": "The Bear Zoo",
+		"start": "-320,-2510",
+		"end": "-410,-2390"
+	},
+	{
+		"name": "Rooster Island",
+		"start": "-130,-2495",
+		"end": "-90,-2440"
+	},
+	{
+		"name": "Zhight Island",
+		"start": "-520,-2870",
+		"end": "-440,-2795"
+	},
+	{
+		"name": "Selchar",
+		"start": "-100,-3070",
+		"end": "210,-3270"
+	},
+	{
+		"name": "Durum Isles Center",
+		"start": "480,-2940",
+		"end": "400,-2820"
+	},
+	{
+		"name": "Durum Isles Upper",
+		"start": "500,-2950",
+		"end": "565,-2905"
+	},
+	{
+		"name": "Durum Isles East",
+		"start": "450,-2810",
+		"end": "520,-2770"
+	},
+	{
+		"name": "Durum Isles Lower",
+		"start": "370,-2780",
+		"end": "320,-2830"
+	},
+	{
+		"name": "Pirate Town",
+		"start": "-740,-3220",
+		"end": "-620,-3050"
+	},
+	{
+		"name": "Skiens Island",
+		"start": "350,-3540",
+		"end": "410,-3420"
+	},
+	{
+		"name": "Dujgon Nation",
+		"start": "1000,-3550",
+		"end": "925,-3380"
+	},
+	{
+		"name": "Nodguj Nation",
+		"start": "695,-3210",
+		"end": "880,-3440"
+	},
+	{
+		"name": "Dead Island North East",
+		"start": "870,-3920",
+		"end": "980,-3990"
+	},
+	{
+		"name": "Dead Island South East",
+		"start": "870,-3920",
+		"end": "930,-3810"
+	},
+	{
+		"name": "Dead Island North West",
+		"start": "870,-3920",
+		"end": "810,-4040"
+	},
+	{
+		"name": "Dead Island South West",
+		"start": "870,-3920",
+		"end": "710,-3810"
+	},
+	{
+		"name": "Maro Peaks",
+		"start": "250,-4050",
+		"end": "120,-3890"
+	},
+	{
+		"name": "Volcano Upper",
+		"start": "-920,-3550",
+		"end": "-780,-3830"
+	},
+	{
+		"name": "Volcano Lower",
+		"start": "-930,-3530",
+		"end": "-1140,-3790"
+	},
+	{
+		"name": "Tree Island",
+		"start": "-460,-3850",
+		"end": "-370,-3770"
+	},
+	{
+		"name": "Ternaves",
+		"start": "770,-1675",
+		"end": "880,-1540"
+	},
+	{
+		"name": "Ternaves Plains Upper",
+		"start": "770,-1675",
+		"end": "655,-1430"
+	},
+	{
+		"name": "Ternaves Plains Lower",
+		"start": "655,-1430",
+		"end": "880,-1330"
+	},
+	{
+		"name": "Mining Base Upper",
+		"start": "880,-1330",
+		"end": "670,-1225"
+	},
+	{
+		"name": "Mining Base Lower",
+		"start": "870,-1130",
+		"end": "670,-1225"
+	},
+	{
+		"name": "Nesaak Transition",
+		"start": "330,-1040",
+		"end": "75,-1145"
+	},
+	{
+		"name": "Angry Village",
+		"start": "330,-1040",
+		"end": "450,-1170"
+	},
+	{
+		"name": "Nether Plains Lower",
+		"start": "75,-1145",
+		"end": "325,-1210"
+	},
+	{
+		"name": "Plains Lake",
+		"start": "395,-1365",
+		"end": "550,-1190"
+	},
+	{
+		"name": "Mine Base Plains",
+		"start": "550,-1190",
+		"end": "650,-1430"
+	},
+	{
+		"name": "Detlas Savannah Transition",
+		"start": "545,-1520",
+		"end": "650,-1670"
+	},
+	{
+		"name": "Nether Plains Upper",
+		"start": "115,-1360",
+		"end": "390,-1495"
+	},
+	{
+		"name": "Detlas Trail East Plains",
+		"start": "200,-1820",
+		"end": "510,-1675"
+	},
+	{
+		"name": "Detlas Trail West Plains",
+		"start": "25,-1660",
+		"end": "200,-1800"
+	},
+	{
+		"name": "Llevigar Entrance",
+		"start": "-2048,-4278",
+		"end": "-1932,-4403"
+	},
+	{
+		"name": "Llevigar Gate East",
+		"start": "-1932,-4648",
+		"end": "-2006,-4746"
+	},
+	{
+		"name": "Llevigar Gate West",
+		"start": "-2023,-4746",
+		"end": "-2097,-4644"
+	},
+	{
+		"name": "Llevigar Farm Plains East",
+		"start": "-2009,-4747",
+		"end": "-1931,-4828"
+	},
+	{
+		"name": "Llevigar Farm Plains West",
+		"start": "-2023,-4746",
+		"end": "-2096,-4828"
+	},
+	{
+		"name": "Hive",
+		"start": "381,-5413",
+		"end": "286,-5593"
+	},
+	{
+		"name": "Cinfras",
+		"start": "-534,-4807",
+		"end": "-375,-5088"
+	},
+	{
+		"name": "Llevigar Plains East Lower",
+		"start": "-2024,-4831",
+		"end": "-1937,-4909"
+	},
+	{
+		"name": "Llevigar  Plains West Lower",
+		"start": "-2031,-4831",
+		"end": "-2121,-4909"
+	},
+	{
+		"name": "Llevigar  Plains East Upper",
+		"start": "-2038,-4912",
+		"end": "-2131,-5000"
+	},
+	{
+		"name": "Llevigar  Plains West Upper",
+		"start": "-2031,-4912",
+		"end": "-1940,-5000"
+	},
+	{
+		"name": "Swamp West Lower",
+		"start": "-2045,-5003",
+		"end": "-2134,-5075"
+	},
+	{
+		"name": "Swamp East Lower",
+		"start": "-2028,-5003",
+		"end": "-1956,-5074"
+	},
+	{
+		"name": "Swamp East Mid",
+		"start": "-1955,-5081",
+		"end": "-2028,-5186"
+	},
+	{
+		"name": "Swamp West Mid",
+		"start": "-2045,-5082",
+		"end": "-2132,-5186"
+	},
+	{
+		"name": "Swamp East Mid-Upper",
+		"start": "-2132,-5190",
+		"end": "-2049,-5309"
+	},
+	{
+		"name": "Swamp West Mid-Upper",
+		"start": "-2028,-5188",
+		"end": "-1955,-5309"
+	},
+	{
+		"name": "Swamp East Upper",
+		"start": "-2132,-5312",
+		"end": "-2049,-5419"
+	},
+	{
+		"name": "Swamp West Upper",
+		"start": "-1955,-5311",
+		"end": "-2028,-5419"
+	},
+	{
+		"name": "Swamp Dark Forest Transition Lower",
+		"start": "-1519,-5134",
+		"end": "-1631,-5288"
+	},
+	{
+		"name": "Swamp Dark Forest Transition Mid",
+		"start": "-1519,-5291",
+		"end": "-1626,-5492"
+	},
+	{
+		"name": "Swamp Dark Forest Transition Upper",
+		"start": "-1519,-5492",
+		"end": "-1626,-5607"
+	},
+	{
+		"name": "Swamp Lower",
+		"start": "-1649,-5134",
+		"end": "-1763,-5241"
+	},
+	{
+		"name": "Entrance to Olux",
+		"start": "-1649,-5246",
+		"end": "-1764,-5396"
+	},
+	{
+		"name": "Olux",
+		"start": "-1810,-5397",
+		"end": "-1668,-5597"
+	},
+	{
+		"name": "Swamp Mountain Base",
+		"start": "-1776,-5134",
+		"end": "-1898,-5240"
+	},
+	{
+		"name": "Swamp Plains Basin",
+		"start": "-1776,-5246",
+		"end": "-1898,-5396"
+	},
+	{
+		"name": "Swamp Mountain Transition Lower",
+		"start": "-2173,-5466",
+		"end": "-2128,-5603"
+	},
+	{
+		"name": "Swamp Mountain Transition Mid",
+		"start": "-2127,-5466",
+		"end": "-2066,-5603"
+	},
+	{
+		"name": "Swamp Mountain Transition Mid-Upper",
+		"start": "-2065,-5466",
+		"end": "-1982,-5603"
+	},
+	{
+		"name": "Swamp Mountain Transition Upper",
+		"start": "-1981,-5466",
+		"end": "-1889,-5603"
+	},
+	{
+		"name": "Quartz Mines South West",
+		"start": "-1776,-4352",
+		"end": "-1609,-4524"
+	},
+	{
+		"name": "Quartz Mines South East",
+		"start": "-1391,-4352",
+		"end": "-1607,-4524"
+	},
+	{
+		"name": "Quartz Mines North West",
+		"start": "-1776,-4664",
+		"end": "-1609,-4526"
+	},
+	{
+		"name": "Quartz Mines North East",
+		"start": "-1391,-4664",
+		"end": "-1607,-4526"
+	},
+	{
+		"name": "Green Camp",
+		"start": "-1930,-5099",
+		"end": "-1816,-4968"
+	},
+	{
+		"name": "Orc Lake",
+		"start": "-1933,-4962",
+		"end": "-1816,-4854"
+	},
+	{
+		"name": "Orc Road",
+		"start": "-1927,-4852",
+		"end": "-1815,-4700"
+	},
+	{
+		"name": "Meteor Crater",
+		"start": "-1800,-5099",
+		"end": "-1690,-4969"
+	},
+	{
+		"name": "Black Camp",
+		"start": "-1800,-4962",
+		"end": "-1695,-4854"
+	},
+	{
+		"name": "Red Camp",
+		"start": "-1800,-4852",
+		"end": "-1670,-4684"
+	},
+	{
+		"name": "Bucie North West",
+		"start": "-1688,-5099",
+		"end": "-1608,-4969"
+	},
+	{
+		"name": "Bucie South West",
+		"start": "-1688,-4962",
+		"end": "-1611,-4854"
+	},
+	{
+		"name": "Llevigar Farm",
+		"start": "-1663,-4849",
+		"end": "-1556,-4714"
+	},
+	{
+		"name": "Bucie North East",
+		"start": "-1603,-4969",
+		"end": "-1529,-5100"
+	},
+	{
+		"name": "Bucie South East",
+		"start": "-1603,-4963",
+		"end": "-1527,-4853"
+	},
+	{
+		"name": "Pre-Light Forest Transition",
+		"start": "-1553,-4850",
+		"end": "-1476,-4719"
+	},
+	{
+		"name": "Leadin Fortress",
+		"start": "-1403,-4869",
+		"end": "-1284,-4748"
+	},
+	{
+		"name": "Road To Light Forest",
+		"start": "-1387,-4595",
+		"end": "-1252,-4713"
+	},
+	{
+		"name": "Light Forest Entrance",
+		"start": "-1243,-4574",
+		"end": "-1157,-4724"
+	},
+	{
+		"name": "Efelim Village",
+		"start": "-1020,-4943",
+		"end": "-1134,-5078"
+	},
+	{
+		"name": "Efelim South Plains",
+		"start": "-1030,-4940",
+		"end": "-1134,-4847"
+	},
+	{
+		"name": "Efelim East Plains",
+		"start": "-1014,-4944",
+		"end": "-949,-5079"
+	},
+	{
+		"name": "Efelim South East Plains",
+		"start": "-949,-4942",
+		"end": "-1014,-4847"
+	},
+	{
+		"name": "Light Forest North Entrance",
+		"start": "-1134,-4708",
+		"end": "-1030,-4845"
+	},
+	{
+		"name": "Light Forest Entrance",
+		"start": "-1040,-4706",
+		"end": "-1134,-4552"
+	},
+	{
+		"name": "Light Forest South Entrance",
+		"start": "-1134,-4548",
+		"end": "-1038,-4426"
+	},
+	{
+		"name": "Aldorei Valley West Entrance",
+		"start": "-736,-4428",
+		"end": "-802,-4553"
+	},
+	{
+		"name": "Light Forest South Exit",
+		"start": "-646,-4699",
+		"end": "-733,-4559"
+	},
+	{
+		"name": "Light Forest North Exit",
+		"start": "-733,-4707",
+		"end": "-654,-4848"
+	},
+	{
+		"name": "Light Forest West Lower",
+		"start": "-1014,-4428",
+		"end": "-929,-4549"
+	},
+	{
+		"name": "Light Forest West Mid",
+		"start": "-929,-4552",
+		"end": "-1014,-4706"
+	},
+	{
+		"name": "Light Forest West Upper",
+		"start": "-1014,-4708",
+		"end": "-935,-4845"
+	},
+	{
+		"name": "Light Forest East Upper",
+		"start": "-926,-4842",
+		"end": "-831,-4945"
+	},
+	{
+		"name": "Light Forest East Mid",
+		"start": "-834,-4839",
+		"end": "-926,-4708"
+	},
+	{
+		"name": "Light Forest East Lower",
+		"start": "-926,-4700",
+		"end": "-805,-4552"
+	},
+	{
+		"name": "Hobbit River",
+		"start": "-926,-4550",
+		"end": "-806,-4428"
+	},
+	{
+		"name": "Mantis Nest",
+		"start": "-736,-4559",
+		"end": "-802,-4698"
+	},
+	{
+		"name": "Light Forest Canyon",
+		"start": "-738,-4708",
+		"end": "-818,-4840"
+	},
+	{
+		"name": "Path to Cinfras",
+		"start": "-734,-4842",
+		"end": "-818,-4953"
+	},
+	{
+		"name": "Lone Farmstead",
+		"start": "-942,-5227",
+		"end": "-1050,-5116"
+	},
+	{
+		"name": "Gelibord",
+		"start": "-1050,-5244",
+		"end": "-958,-5342"
+	},
+	{
+		"name": "Gelibord Corrupted Farm",
+		"start": "-1056,-5355",
+		"end": "-1179,-5448"
+	},
+	{
+		"name": "Gelibord Castle",
+		"start": "-1027,-5470",
+		"end": "-1180,-5600"
+	},
+	{
+		"name": "Taproot Descent",
+		"start": "-1425,-5407",
+		"end": "-1194,-5589"
+	},
+	{
+		"name": "Fortress North",
+		"start": "-1452,-5211",
+		"end": "-1272,-5395"
+	},
+	{
+		"name": "Fortress South",
+		"start": "-1460,-5025",
+		"end": "-1272,-5210"
+	},
+	{
+		"name": "Mansion of Insanity",
+		"start": "-1237,-5116",
+		"end": "-1144,-5268"
+	},
+	{
+		"name": "Twisted Housing",
+		"start": "-1133,-5116",
+		"end": "-1053,-5272"
+	},
+	{
+		"name": "Lexdales Prison",
+		"start": "-873,-5518",
+		"end": "-772,-5585"
+	},
+	{
+		"name": "Path To Prison",
+		"start": "-771,-5504",
+		"end": "-899,-5412"
+	},
+	{
+		"name": "Gromblins Hideout",
+		"start": "-896,-5408",
+		"end": "-792,-5233"
+	},
+	{
+		"name": "Abandoned Church",
+		"start": "-896,-5232",
+		"end": "-802,-5102"
+	},
+	{
+		"name": "Mesquis Tower",
+		"start": "-834,-5078",
+		"end": "-727,-4999"
+	},
+	{
+		"name": "Corrupted Impact",
+		"start": "-785,-5229",
+		"end": "-725,-5102"
+	},
+	{
+		"name": "Banshees Cave",
+		"start": "-653,-5231",
+		"end": "-785,-5401"
+	},
+	{
+		"name": "Shanjugin’s River",
+		"start": "-659,-5424",
+		"end": "-766,-5508"
+	},
+	{
+		"name": "Dark Forest Village",
+		"start": "-723,-5229",
+		"end": "-574,-5147"
+	},
+	{
+		"name": "Graveyard South",
+		"start": "-648,-5311",
+		"end": "-567,-5234"
+	},
+	{
+		"name": "Graveyard North",
+		"start": "-648,-5314",
+		"end": "-567,-5400"
+	},
+	{
+		"name": "Lexdale",
+		"start": "-650,-5511",
+		"end": "-562,-5406"
+	},
+	{
+		"name": "Arachnida Cave",
+		"start": "-489,-5279",
+		"end": "-549,-5398"
+	},
+	{
+		"name": "Black Magic",
+		"start": "-471,-5405",
+		"end": "-549,-5512"
+	},
+	{
+		"name": "Corrupted Hand",
+		"start": "-598,-5580",
+		"end": "-454,-5518"
+	},
+	{
+		"name": "Cinfras Entrance",
+		"start": "-555,-4996",
+		"end": "-717,-4868"
+	},
+	{
+		"name": "Abandoned Tower",
+		"start": "-288,-5411",
+		"end": "-392,-5601"
+	},
+	{
+		"name": "Corrupted Village",
+		"start": "-288,-5409",
+		"end": "-392,-5294"
+	},
+	{
+		"name": "Dark Forest Cinfras Transition",
+		"start": "-290,-5292",
+		"end": "-392,-5116"
+	},
+	{
+		"name": "Guild Hall",
+		"start": "-349,-5093",
+		"end": "-137,-4814"
+	},
+	{
+		"name": "Aldorei Valley South Entrance",
+		"start": "-130,-4641",
+		"end": "-222,-4509"
+	},
+	{
+		"name": "Cinfras’s Small Farm",
+		"start": "-224,-4793",
+		"end": "-130,-4643"
+	},
+	{
+		"name": "Cinfras County Lower",
+		"start": "3,-4760",
+		"end": "-127,-4640"
+	},
+	{
+		"name": "Cinfras County Mid-Lower",
+		"start": "-127,-4761",
+		"end": "3,-4895"
+	},
+	{
+		"name": "Cinfras County Mid-Upper",
+		"start": "-127,-4896",
+		"end": "3,-5050"
+	},
+	{
+		"name": "Cinfras County Upper",
+		"start": "-127,-5155",
+		"end": "3,-5051"
+	},
+	{
+		"name": "Gylia Lake South East",
+		"start": "30,-5157",
+		"end": "-127,-5271"
+	},
+	{
+		"name": "Gylia Lake South West",
+		"start": "-130,-5173",
+		"end": "-225,-5271"
+	},
+	{
+		"name": "Gylia Lake North West",
+		"start": "-218,-5427",
+		"end": "-130,-5273"
+	},
+	{
+		"name": "Gylia Lake North East",
+		"start": "-128,-5416",
+		"end": "21,-5273"
+	},
+	{
+		"name": "Gert Camp",
+		"start": "30,-5447",
+		"end": "-83,-5605"
+	},
+	{
+		"name": "Jitak’s Farm",
+		"start": "-122,-5430",
+		"end": "-218,-5567"
+	},
+	{
+		"name": "Aldorei Valley Lower",
+		"start": "-714,-4395",
+		"end": "-559,-4499"
+	},
+	{
+		"name": "Aldorei Valley Mid",
+		"start": "-450,-4499",
+		"end": "-557,-4395"
+	},
+	{
+		"name": "Aldorei Valley Upper",
+		"start": "-557,-4501",
+		"end": "-450,-4661"
+	},
+	{
+		"name": "Aldorei’s River",
+		"start": "-437,-4656",
+		"end": "-338,-4756"
+	},
+	{
+		"name": "Aldorei’s Waterfall",
+		"start": "-237,-4514",
+		"end": "-321,-4648"
+	},
+	{
+		"name": "Aldorei’s North Exit",
+		"start": "-127,-4639",
+		"end": "3,-4509"
+	},
+	{
+		"name": "Aldorei’s Arch",
+		"start": "33,-4367",
+		"end": "107,-4519"
+	},
+	{
+		"name": "Path To The Arch",
+		"start": "35,-4521",
+		"end": "107,-4641"
+	},
+	{
+		"name": "Ghostly Path",
+		"start": "35,-4643",
+		"end": "107,-4753"
+	},
+	{
+		"name": "Burning Farm",
+		"start": "107,-4755",
+		"end": "35,-4857"
+	},
+	{
+		"name": "Burning Airship",
+		"start": "35,-4859",
+		"end": "107,-4955"
+	},
+	{
+		"name": "Cinfras Thanos Transition",
+		"start": "98,-4957",
+		"end": "35,-5046"
+	},
+	{
+		"name": "Thanos",
+		"start": "51,-5189",
+		"end": "194,-5295"
+	},
+	{
+		"name": "Path To Thanos",
+		"start": "98,-5049",
+		"end": "35,-5146"
+	},
+	{
+		"name": "Path To Military Base",
+		"start": "51,-5297",
+		"end": "166,-5391"
+	},
+	{
+		"name": "Military Base",
+		"start": "104,-5393",
+		"end": "166,-5518"
+	},
+	{
+		"name": "Military Base Upper",
+		"start": "168,-5408",
+		"end": "250,-5518"
+	},
+	{
+		"name": "Military Base Lower",
+		"start": "244,-5407",
+		"end": "168,-5315"
+	},
+	{
+		"name": "Path To Ozoth’s Spire Lower",
+		"start": "260,-5298",
+		"end": "199,-5169"
+	},
+	{
+		"name": "Path To Ozoth’s Spire Mid",
+		"start": "199,-5164",
+		"end": "260,-5042"
+	},
+	{
+		"name": "Path To Ozoth’s Spire Upper",
+		"start": "194,-5165",
+		"end": "111,-5045"
+	},
+	{
+		"name": "Bandit Cave Lower",
+		"start": "111,-5043",
+		"end": "194,-4958"
+	},
+	{
+		"name": "Bandit Cave Upper",
+		"start": "194,-4956",
+		"end": "111,-4872"
+	},
+	{
+		"name": "Canyon Entrance Waterfall",
+		"start": "110,-4869",
+		"end": "194,-4741"
+	},
+	{
+		"name": "Canyon Path North West",
+		"start": "110,-4736",
+		"end": "194,-4651"
+	},
+	{
+		"name": "Canyon Path South East",
+		"start": "194,-4649",
+		"end": "115,-4521"
+	},
+	{
+		"name": "Canyon Waterfall North",
+		"start": "115,-4159",
+		"end": "194,-4380"
+	},
+	{
+		"name": "Canyon Upper North West",
+		"start": "200,-4380",
+		"end": "265,-4518"
+	},
+	{
+		"name": "Canyon Lower South East",
+		"start": "265,-4521",
+		"end": "199,-4649"
+	},
+	{
+		"name": "Canyon Path South West",
+		"start": "265,-4652",
+		"end": "200,-4741"
+	},
+	{
+		"name": "Canyon Path North Mid",
+		"start": "200,-4743",
+		"end": "264,-4875"
+	},
+	{
+		"name": "Bandit Camp Exit",
+		"start": "264,-4877",
+		"end": "203,-4971"
+	},
+	{
+		"name": "Canyon Valley South",
+		"start": "263,-4973",
+		"end": "199,-5035"
+	},
+	{
+		"name": "Thanos Valley West",
+		"start": "250,-5401",
+		"end": "311,-5315"
+	},
+	{
+		"name": "Thanos Exit",
+		"start": "338,-5310",
+		"end": "262,-5168"
+	},
+	{
+		"name": "Canyon Walk Way",
+		"start": "271,-5165",
+		"end": "338,-5041"
+	},
+	{
+		"name": "Canyon Mountain East",
+		"start": "271,-5039",
+		"end": "337,-4948"
+	},
+	{
+		"name": "Canyon Mountain South",
+		"start": "271,-4946",
+		"end": "337,-4857"
+	},
+	{
+		"name": "Canyon Waterfall Mid North",
+		"start": "337,-4855",
+		"end": "271,-4741"
+	},
+	{
+		"name": "Canyon Fortress",
+		"start": "271,-4739",
+		"end": "338,-4630"
+	},
+	{
+		"name": "Canyon Survivor",
+		"start": "338,-4628",
+		"end": "269,-4522"
+	},
+	{
+		"name": "Canyon Dropoff",
+		"start": "334,-4518",
+		"end": "269,-4395"
+	},
+	{
+		"name": "Thanos Exit Upper",
+		"start": "347,-5313",
+		"end": "438,-5183"
+	},
+	{
+		"name": "Bandits Toll",
+		"start": "438,-5093",
+		"end": "345,-5181"
+	},
+	{
+		"name": "Wizard Tower North",
+		"start": "438,-5037",
+		"end": "345,-4966"
+	},
+	{
+		"name": "Mountain Path",
+		"start": "334,-4393",
+		"end": "276,-4314"
+	},
+	{
+		"name": "Mountain Edge",
+		"start": "437,-4314",
+		"end": "336,-4392"
+	},
+	{
+		"name": "Cliff Side of the Lost",
+		"start": "340,-4395",
+		"end": "437,-4508"
+	},
+	{
+		"name": "Valley of the Lost",
+		"start": "435,-4511",
+		"end": "341,-4670"
+	},
+	{
+		"name": "Temple of the Lost East",
+		"start": "440,-4672",
+		"end": "341,-4838"
+	},
+	{
+		"name": "Krolton’s Cave",
+		"start": "341,-4841",
+		"end": "438,-4962"
+	},
+	{
+		"name": "Hive South",
+		"start": "440,-5315",
+		"end": "560,-5449"
+	},
+	{
+		"name": "Canyon High Path",
+		"start": "562,-5313",
+		"end": "440,-5191"
+	},
+	{
+		"name": "Cliffside Waterfall",
+		"start": "440,-5183",
+		"end": "563,-5080"
+	},
+	{
+		"name": "Cliffside Valley",
+		"start": "563,-5079",
+		"end": "440,-4975"
+	},
+	{
+		"name": "Air Temple Lower",
+		"start": "445,-4972",
+		"end": "563,-4835"
+	},
+	{
+		"name": "Air Temple Upper",
+		"start": "570,-4833",
+		"end": "445,-4692"
+	},
+	{
+		"name": "Cliffside Lake",
+		"start": "445,-4689",
+		"end": "570,-4568"
+	},
+	{
+		"name": "Canyon Of The Lost",
+		"start": "443,-4566",
+		"end": "570,-4392"
+	},
+	{
+		"name": "Kandon-Beda",
+		"start": "607,-4579",
+		"end": "760,-4372"
+	},
+	{
+		"name": "Kandon Farm",
+		"start": "710,-4587",
+		"end": "614,-4682"
+	},
+	{
+		"name": "Cliffside Passage",
+		"start": "699,-4817",
+		"end": "572,-4691"
+	},
+	{
+		"name": "Cliffside Passage North",
+		"start": "572,-4818",
+		"end": "700,-4933"
+	},
+	{
+		"name": "Entrance to Thesead North",
+		"start": "572,-4935",
+		"end": "700,-5028"
+	},
+	{
+		"name": "Entrance to Thesead South",
+		"start": "700,-5030",
+		"end": "574,-5181"
+	},
+	{
+		"name": "Chained House",
+		"start": "574,-5375",
+		"end": "699,-5242"
+	},
+	{
+		"name": "Cherry Blossom Forest",
+		"start": "699,-5378",
+		"end": "575,-5551"
+	},
+	{
+		"name": "Ranol’s Farm",
+		"start": "810,-5551",
+		"end": "701,-5377"
+	},
+	{
+		"name": "Thesead Suberbs",
+		"start": "703,-5374",
+		"end": "810,-5216"
+	},
+	{
+		"name": "Thesead",
+		"start": "747,-5104",
+		"end": "872,-4964"
+	},
+	{
+		"name": "Entrance to Rodoroc",
+		"start": "854,-5257",
+		"end": "1113,-5367"
+	},
+	{
+		"name": "Eltom",
+		"start": "1029,-5581",
+		"end": "828,-5376"
+	},
+	{
+		"name": "Molten Heights Portal",
+		"start": "1535,-5067",
+		"end": "1387,-5366"
+	},
+	{
+		"name": "Lava Lake",
+		"start": "1531,-5553",
+		"end": "1387,-5369"
+	},
+	{
+		"name": "Lava Lake Bridge",
+		"start": "1230,-5240",
+		"end": "1379,-5366"
+	},
+	{
+		"name": "Crater Descent",
+		"start": "1383,-5238",
+		"end": "1230,-5067"
+	},
+	{
+		"name": "Active Volcano",
+		"start": "1233,-5553",
+		"end": "1379,-5369"
+	},
+	{
+		"name": "Volcanic Slope",
+		"start": "1531,-5637",
+		"end": "1221,-5555"
+	},
+	{
+		"name": "Ahmsord",
+		"start": "1163,-4462",
+		"end": "942,-4604"
+	},
+	{
+		"name": "Temple Island",
+		"start": "991,-4643",
+		"end": "1124,-4750"
+	},
+	{
+		"name": "Snail Island",
+		"start": "1022,-4811",
+		"end": "958,-4872"
+	},
+	{
+		"name": "Light Realm East",
+		"start": "-240,-6855",
+		"end": "-45,-6984"
+	},
+	{
+		"name": "Light Realm East Lower",
+		"start": "-243,-6858",
+		"end": "-542,-6984"
+	},
+	{
+		"name": "Light Realm East Mid",
+		"start": "-566,-6985",
+		"end": "-860,-6857"
+	},
+	{
+		"name": "Light Realm East Mid-Upper",
+		"start": "-871,-6986",
+		"end": "-1076,-6855"
+	},
+	{
+		"name": "Light Realm East Upper",
+		"start": "-1079,-6855",
+		"end": "-1305,-6986"
+	},
+	{
+		"name": "Light Realm Entrance",
+		"start": "-1079,-6635",
+		"end": "-1343,-6848"
+	},
+	{
+		"name": "Light Realm Entrance Upper",
+		"start": "-1076,-6848",
+		"end": "-836,-6634"
+	},
+	{
+		"name": "Orphion's Seal",
+		"start": "-249,-6854",
+		"end": "-539,-6633"
+	},
+	{
+		"name": "Orphion's Seal Upper",
+		"start": "-542,-6854",
+		"end": "-826,-6633"
+	},
+	{
+		"name": "Light Realm Mushrooms",
+		"start": "-249,-6630",
+		"end": "-539,-6462"
+	},
+	{
+		"name": "Light Realm Corruption",
+		"start": "-545,-6462",
+		"end": "-762,-6630"
+	},
+	{
+		"name": "Road to Corruption",
+		"start": "-1077,-6462",
+		"end": "-764,-6630"
+	},
+	{
+		"name": "Spiraling Trees",
+		"start": "-1079,-6630",
+		"end": "-1345,-6461"
+	},
+	{
+		"name": "Dernal Jungle Lower",
+		"start": "-737,-317",
+		"end": "-502,-530"
+	},
+	{
+		"name": "Dernal Jungle Mid",
+		"start": "-744,-528",
+		"end": "-965,-264"
+	},
+	{
+		"name": "Dernal Jungle Upper",
+		"start": "-970,-795",
+		"end": "-900,-547"
+	}
 ]
