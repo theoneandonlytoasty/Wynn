@@ -1709,6 +1709,36 @@
                 "end": "-1683,-3175",
                 "name": "Corkus Mountain"
         },
+        {
+                "start": "-1677,-3178",
+                "end": "-1888,-3375",
+                "name": "Abandoned Tower"
+        },
+        {
+                "start": "-1891,-2997",
+                "end": "-2022,-3274",
+                "name": "Corkus Docks"
+        },
+        {
+                "start": "-1450,-3191",
+                "end": "-1680,-3012",
+                "name": "Corkus Countryside"
+        },
+        {
+                "start": "-1680,-2512",
+                "end": "-1437,-2307",
+                "name": "Corkus Sea Port"
+        },
+        {
+                "start": "-1684,-2569",
+                "end": "-1793,-2453",
+                "name": "Ruined Houses"
+        },
+        {
+                "start": "-1322,-2917",
+                "end": "-1375,-2836",
+                "name": "Statue"
+        },
 	{
 	        "name": "Factory Entrance",
                 "start": "-1683,-2571",
