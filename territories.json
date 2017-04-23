@@ -1700,19 +1700,19 @@
     	        "end": "-1798,-2730"
 	{
         },
+                "name": "Corkus Forest South"
                 "start": "-1681,-2732",
                 "end": "-1883,-2861",
-                "name": "Corkus Forest South"
         },
         {
+                "name": "Corkus Forest North"
                 "start": "-1888,-2862",
                 "end": "-1682,-2995",
-                "name": "Corkus Forest North"
         },
         {
+                "name": "Corkus Mountain"
                 "start": "-1888,-2997",
                 "end": "-1683,-3175",
-                "name": "Corkus Mountain"
         }
 
 ]
