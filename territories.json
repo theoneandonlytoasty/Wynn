@@ -1659,4 +1659,35 @@
 		"start": "-970,-795",
 		"end": "-900,-547"
 	}
+	{
+  		"name": "Corkus City",
+                "start": "-1557,-2835",
+                "end": "-1680,-3010"
+        },
+        {
+                "name": "Corkus Castle",
+                "start": "-1555,-2968",
+                "end": "-1452,-2835"
+        },
+        {
+                "name": "Corkus City South",
+                "start": "-1559,-2727",
+                "end": "-1690,-2833"
+        },
+        {
+                "name": "Fallen Factory",
+                "start": "-1579,-2662",
+                "end": "-1681,-2518"
+        },
+        {
+                "name": "Road To Mine",
+                "start": "-1467,-2834",
+                "end": "-1557,-2691"
+        },
+        {
+                "name": "Corkus City Mine",
+                "start": "-1394,-2750",
+                "end": "-1466,-2831"
+        }
+	
 ]
