@@ -1699,6 +1699,16 @@
                 "end": "-1883,-2861",
                 "name": "Corkus Forest South"
         },
+        {
+                "start": "-1888,-2862",
+                "end": "-1682,-2995",
+                "name": "Corkus Forest North"
+        },
+        {
+                "start": "-1888,-2997",
+                "end": "-1683,-3175",
+                "name": "Corkus Mountain"
+        },
 	{
 	        "name": "Factory Entrance",
                 "start": "-1683,-2571",
