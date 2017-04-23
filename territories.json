@@ -1694,6 +1694,11 @@
 		"start": "-1212,-2576",
 		"end": "-1001,-2342"
 	},
+        {
+                "start": "-1681,-2732",
+                "end": "-1883,-2861",
+                "name": "Corkus Forest South"
+        },
 	{
 	        "name": "Factory Entrance",
                 "start": "-1683,-2571",
