@@ -1690,34 +1690,34 @@
                 "end": "-1466,-2831"
 	},
 	{       
-		"name": "Legendary Island"
+		"name": "Legendary Island",
 		"start": "-1212,-2576",
-		"end": "-1001,-2342",	
+		"end": "-1001,-2342"
 	},
 	{
+		"name": "Factory Entrance",
       		"start": "-1683,-2571",
-    		"end": "-1798,-2730",
-    		"name": "Factory Entrance"
+    		"end": "-1798,-2730"
   	},
   	{
+		"name": "Corkus Forest South",
     		"start": "-1681,-2732",
-    		"end": "-1883,-2861",
-    		"name": "Corkus Forest South"
+    		"end": "-1883,-2861"
   	},
   	{
+		"name": "Corkus Forest North",
     		"start": "-1888,-2862",
-    		"end": "-1682,-2995",
-    		"name": "Corkus Forest North"
+    		"end": "-1682,-2995"
   	},
   	{
+		"name": "Corkus Mountain",
     		"start": "-1888,-2997",
-    		"end": "-1683,-3175",
-    		"name": "Corkus Mountain"
+    		"end": "-1683,-3175"
   	},
   	{
+		"name": "Abandoned Tower",
     		"start": "-1677,-3178",
-	    	"end": "-1888,-3375",
-    		"name": "Abandoned Tower"
+	    	"end": "-1888,-3375"
  	},
  	{
   	 	"start": "-1891,-2997",
@@ -1725,23 +1725,23 @@
     		"name": "Corkus Docks"
   	},
   	{
+		"name": "Corkus Countryside",
     		"start": "-1450,-3191",
-    		"end": "-1680,-3012",
-    		"name": "Corkus Countryside"
+    		"end": "-1680,-3012"
   	},
   	{
+		"name": "Corkus Sea Port",
     		"start": "-1680,-2512",
-    		"end": "-1437,-2307",
-    		"name": "Corkus Sea Port"
+    		"end": "-1437,-2307"
   	},
   	{
+		"name": "Ruined Houses",
     		"start": "-1684,-2569",
-    		"end": "-1793,-2453",
-    		"name": "Ruined Houses"
+    		"end": "-1793,-2453"
   	},
   	{
+		"name": "Statue",
     		"start": "-1322,-2917",
-    		"end": "-1375,-2836",
-    		"name": "Statue"
+    		"end": "-1375,-2836"
   	}
 ]
