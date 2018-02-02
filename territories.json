@@ -1743,6 +1743,126 @@
 	        "name": "Factory Entrance",
                 "start": "-1683,-2571",
     	        "end": "-1798,-2730"
-	}
+	},
+	{
+	        "name": "Avos Temple",
+                "start": "-1526,-3225",
+                "end": "-1378,-3426",
+        },
+        {
+                "name": "Bloody Beach",
+                "start": "-1376,-3225",
+                "end": "-1097,-3426",
 
+        },
+        {
+                "name": "Corkus Outskirts",
+                "start": "-1555,-2976",
+                "end": "-1230,-3224",
+        },
+        {
+                "name": "Frozen Fort",
+                "start": "1501,-4513",
+                "end": "1586,-4789",
+        },
+        {
+                "name": "Sky Castle",
+                "start": "954,-4425",
+                "end": "854,-4340",
+        },
+        {
+                "name": "Path to Ahmsord Lower",
+                "start": "779,-4480",
+                "end": "885,-4570",
+        },
+        {
+                "name": "Path to Ahmsord Upper",
+                "start": "885,-4571",
+                "end": "779,-4639",
+        },
+        {
+                "name": "Kandon Ridge",
+                "start": "885,-4640",
+                "end": "719,-4777",
+        },
+        {
+                "name": "Old Coal Mine",
+                "start": "719,-4778",
+                "end": "885,-4900",
+        },
+        {
+                "name": "Dragonling Nests",
+                "start": "925,-4916",
+                "end": "1101,-5016",
+        },
+        {
+                "name": "Old Coal Mine",
+                "start": "1102,-5016",
+                "end": "1250,-4916",
+        },
+        {
+                "name": "Astraulus' Tower",
+                "start": "1102,-5016",
+                "end": "1250,-4916",
+        },
+        {
+                "name": "Molten Reach",
+                "start": "1251,-4894",
+                "end": "1500,-4964",
+        },
+        {
+                "name": "Ahmsord Outskirts",
+                "start": "1336,-4893",
+                "end": "1179,-4730",
+        },
+        {
+                "name": "Swamp Island",
+                "start": "1178,-4754",
+                "end": "1101,-4915",
+        },
+        {
+                "name": "Angel Refuge",
+                "start": "1354,-4727",
+                "end": "1484,-4877",
+        },
+        {
+                "name": "Wybel Island",
+                "start": "1355,-4700",
+                "end": "1253,-4595",
+        },
+        {
+                "name": "Central Islands",
+                "start": "1250,-4718",
+                "end": "1183,-4535",
+        },
+        {
+                "name": "Sky Island Ascent",
+                "start": "1180,-4524",
+                "end": "1379,-4355",
+        },
+        {
+                "name": "Sky Falls",
+                "start": "1380,-4458",
+                "end": "1466,-4653",
+        },
+        {
+                "name": "Raider's Base Upper",
+                "start": "1380,-4457",
+                "end": "1551,-4316",
+        },
+        {
+                "name": "Raider's Base Lower",
+                "start": "1558,-4316",
+                "end": "1305,-4253",
+        },
+        {
+                "name": "Jofash Tunnel",
+                "start": "1304,-4354",
+                "end": "1126,-4176",
+        },
+        {
+                "name": "Jofash Docks",
+                "start": "1178,-4175",
+                "end": "1465,-3926",
+        }
 ]
