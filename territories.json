@@ -1,5 +1,4 @@
-{
-  "territories": [
+[
     {
       "name": "Ragni Main Entrance",
       "start": "-747,-1530",
@@ -2622,4 +2621,3 @@
       "xp": 2530
     }
   ]
-}
