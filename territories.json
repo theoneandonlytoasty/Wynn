@@ -567,32 +567,32 @@
       "xp": 120
     },
     {
-      "name": "Nemract Road",
-      "start": "20,-2065",
-      "end": "180,-1870",
-      "level": 15,
-      "xp": 120
-    },
-    {
-      "name": "Nemract Plains West",
-      "start": "5,-1960",
-      "end": "-100,-1810",
-      "level": 15,
-      "xp": 120
-    },
-    {
-      "name": "Nemract Plains East",
-      "start": "180,-1870",
-      "end": "20,-1810",
-      "level": 15,
-      "xp": 120
-    },
-    {
-      "name": "Ancient Nemract",
-      "start": "152,-1832",
-      "end": "290,-1999",
-      "level": 15
-    },
+        "name": "Nemract Road",
+        "start": "20,-2065",
+        "end": "151,-1870",
+        "level": 15,
+        "xp": 120
+      },
+      {
+        "name": "Nemract Plains West",
+        "start": "5,-1960",
+        "end": "-100,-1810",
+        "level": 15,
+        "xp": 120
+      },
+      {
+        "name": "Nemract Plains East",
+        "start": "151,-1870",
+        "end": "20,-1810",
+        "level": 15,
+        "xp": 120
+      },
+      {
+        "name": "Ancient Nemract",
+        "start": "152,-1832",
+        "end": "290,-1999",
+        "level": 15
+      },
     {
       "name": "Nemract Cathedral",
       "start": "385,-2180",
