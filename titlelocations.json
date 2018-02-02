@@ -1,0 +1,1814 @@
+{
+    "The Province of Gavel": {
+        "location": "-110, 64, -5049",
+        "underground": false,
+		"class": "title"
+    },
+    "The Province of Wynn": {
+        "location": "103, 64, -1726",
+        "underground": false,
+		"class": "title"
+    },
+    "Corkus Island": {
+        "location": "-1522, 64, -2752",
+        "underground": false,
+		"class": "title"
+    },
+    "Ragni": {
+        "location": "-819, 64, -1581",
+        "underground": false,
+        "level": 1,
+		"class": "city"
+    },
+    "Almuj": {
+        "location": "970, 64, -1983",
+        "underground": false,
+        "level": 30,
+		"class": "city"
+    },
+    "Detlas": {
+        "location": "469,64,-1587.5",
+        "underground": false,
+		"class": "city"
+    },
+    "Nemract": {
+        "location": "119, 64, -2206",
+        "underground": false,
+        "level": 20,
+		"class": "city"
+    },
+    "Troms": {
+        "location": "-793, 64, -963",
+        "underground": false,
+        "level": 55,
+		"class": "city"
+    },
+    "Selchar": {
+        "location": "55,64,-3170",
+        "underground": false,
+		"class": "city"
+    },
+    "LLevigar": {
+        "location": "-1989, 64, -4533",
+        "underground": false,
+        "level": 40,
+		"class": "city"
+    },
+    "Olux": {
+        "location": "-1739,64,-5497",
+        "underground": false,
+		"class": "city"
+    },
+    "Cinfras": {
+        "location": "-454.5,64,-4947.5",
+        "underground": false,
+		"class": "city"
+    },
+    "Thesead": {
+        "location": "809.5,64,-5034",
+        "underground": false,
+		"class": "city"
+    },
+    "Rodoroc": {
+        "location": "1101, 64, -5136",
+        "underground": false,
+        "level": 90,
+		"class": "city"
+    },
+    "Ahmsord": {
+        "location": "1052.5,64,-4533",
+        "underground": false,
+		"class": "town"
+    },
+    "Aldorei Valley": {
+        "location": "-665, 64, -4546",
+        "underground": false,
+        "level": 76,
+		"class": "city"
+    },
+    "Thanos": {
+        "location": "122.5,64,-5242",
+        "underground": false,
+		"class": "town"
+    },
+    "Maltic": {
+        "location": "-519.5,64,-1913.5",
+        "underground": false,
+		"class": "town"
+    },
+    "Ternaves": {
+        "location": "825,64,-1607.5",
+        "underground": false,
+		"class": "town"
+    },
+    "Saint\'s Row": {
+        "location": "305, 64, -2053",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Ancient Nemract": {
+        "location": "217.5,64,-1850",
+        "underground": false,
+		"class": "town"
+    },
+    "Emerald Trail": {
+        "location": "-525.5,64,-1591",
+        "underground": false,
+		"class": "town"
+    },
+    "Time Valley": {
+        "location": "-484.5,64,-1133.5",
+        "underground": false,
+		"class": "town"
+    },
+    "Pigmen\'s Ravines": {
+        "location": "-680, 64, -1384",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Nivla Woods": {
+        "location": "-198, 64, -1536",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Nesaak": {
+        "location": "117, 64, -817",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Elkurn": {
+        "location": "-18,64,-1165",
+        "underground": false,
+		"class": "town"
+    },
+    "Bremminglar": {
+        "location": "687.5,64,-2095",
+        "underground": false,
+		"class": "town"
+    },
+    "Detlas Suburb": {
+        "location": "280, 64, -1586",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Mage Island": {
+        "location": "895,64,-2845",
+        "underground": false,
+		"class": "town"
+    },
+    "Black Road": {
+        "location": "667, 64, -1519",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Pirate Bay": {
+        "location": "480, 64, -2058",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Corrupted Village": {
+        "location": "-340,64,-5351.5",
+        "underground": false,
+		"class": "town"
+    },
+    "Temple of the Legends": {
+        "location": "-691, 64, -1022",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Half Moon Island": {
+        "location": "1000,64,-2570",
+        "underground": false,
+		"class": "town"
+    },
+    "Durum Isles": {
+        "location": "437, 64, -2880",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Ghost Ship": {
+        "location": "718, 64, -3741",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Rooster Island": {
+        "location": "-110,64,-2467.5",
+        "underground": false,
+		"class": "town"
+    },
+    "Skiens Island": {
+        "location": "380,64,-3480",
+        "underground": false,
+		"class": "town"
+    },
+    "Nodguj Nation": {
+        "location": "787.5,64,-3325",
+        "underground": false,
+		"class": "town"
+    },
+    "Dujgon Nation": {
+        "location": "962.5,64,-3465",
+        "underground": false,
+		"class": "town"
+    },
+    "Ice Islands": {
+        "location": "909, 64, -3339",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Maro Peaks": {
+        "location": "185,64,-3970",
+        "underground": false,
+		"class": "town"
+    },
+    "The Bear Zoo": {
+        "location": "-365,64,-2450",
+        "underground": false,
+		"class": "town"
+    },
+    "Underwater Route": {
+        "location": "79, 64, -2646",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Coastal Trail": {
+        "location": "-656,64,-2002.5",
+        "underground": false,
+		"class": "town"
+    },
+    "Katoa Ranch": {
+        "location": "-838,64,-1900",
+        "underground": false,
+		"class": "town"
+    },
+    "The Tower of Amnesia": {
+        "location": "124, 64, -1227",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Jungle Village": {
+        "location": "-751, 64, -751",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Underground Squid Village": {
+        "location": "221, 64, -814",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "The Great Bridge": {
+        "location": "-365, 64, -770",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Mummy\'s Tomb": {
+        "location": "1055,64,-2335",
+        "underground": false,
+		"class": "town"
+    },
+    "House of Twain": {
+        "location": "122, 64, -369",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Pirate Town": {
+        "location": "-680,64,-3135",
+        "underground": false,
+		"class": "town"
+    },
+    "Zhight Island": {
+        "location": "-500, 64, -2831",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Mt. Wynn": {
+        "location": "-115,64,-2015",
+        "underground": false,
+		"class": "town"
+    },
+    "Lion Lair": {
+        "location": "840,64,-2230",
+        "underground": false,
+		"class": "town"
+    },
+    "Rymek": {
+        "location": "1250, 64, -1334",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Invaded Barracks": {
+        "location": "1380, 64, -2247",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Door of Time": {
+        "location": "-549, 64, -1214",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Abandoned Mines": {
+        "location": "762, 64, -1251",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Roots of Corruption": {
+        "location": "232, 64, -1291",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Lexdale": {
+        "location": "-606,64,-5458.5",
+        "underground": false,
+		"class": "town"
+    },
+    "Eltom": {
+        "location": "928.5,64,-5478.5",
+        "underground": false,
+		"class": "town"
+    },
+    "Dogovi": {
+        "location": "1486, 64, -5292",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Kandon-Beda": {
+        "location": "683.5,64,-4475.5",
+        "underground": false,
+		"class": "town"
+    },
+    "Karoc Quarry": {
+        "location": "-1617, 64, -4470",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Light Forest": {
+        "location": "-950, 44, -4913",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Dark Forest": {
+        "location": "-1162, 64, -5341",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Molten Heights": {
+        "location": " 1495, 64, -5492",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Pre-Light Forest": {
+        "location": " -1493, 39, -4818",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Canyon of the Lost": {
+        "location": " 629, 64, -5224",
+        "underground": false,
+        "level": null,
+		"class": "town"
+    },
+    "Ragni Main Entrance": {
+        "location": "-681.5,64,-1591",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nivla Forest Entrance": {
+        "location": "-403.5,64,-1591",
+        "underground": false,
+		"class": "territory"
+    },
+    "Ragni North Entrance": {
+        "location": "-881,64,-1810",
+        "underground": false,
+		"class": "territory"
+    },
+    "Ragni North Suburbs": {
+        "location": "-789.5,64,-1810",
+        "underground": false,
+		"class": "territory"
+    },
+    "Ragni East Suburbs": {
+        "location": "-681.5,64,-1714.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Ragni Plains": {
+        "location": "-676,64,-1860.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Maltic Coast": {
+        "location": "-457.5,64,-2002.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Maltic Plains": {
+        "location": "-500,64,-1768",
+        "underground": false,
+		"class": "territory"
+    },
+    "Plains": {
+        "location": "-352.5,64,-1768",
+        "underground": false,
+		"class": "territory"
+    },
+    "Pigmen Ravines Entrance": {
+        "location": "-854,64,-1352.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Pigmen Ravines": {
+        "location": "-700.5,64,-1357.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "South Pigmen Ravines": {
+        "location": "-788,64,-1259.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Little Wood": {
+        "location": "-724,64,-1135.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Abandoned Farm": {
+        "location": "-527.5,64,-1365",
+        "underground": false,
+		"class": "territory"
+    },
+    "Animal Bridge": {
+        "location": "-258,64,-1061.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Road to Time Valley": {
+        "location": "-410,64,-1468.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Elkurn Fields": {
+        "location": "-227,64,-1233",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nivla Forest": {
+        "location": "-260.5,64,-1542",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nivla Forest Exit": {
+        "location": "-140,64,-1572",
+        "underground": false,
+		"class": "territory"
+    },
+    "South Nivla Forest": {
+        "location": "-224.5,64,-1385",
+        "underground": false,
+		"class": "territory"
+    },
+    "North Nivla Forest": {
+        "location": "-140,64,-1716",
+        "underground": false,
+		"class": "territory"
+    },
+    "Road to Elkurn": {
+        "location": "-43.5,64,-1374",
+        "underground": false,
+		"class": "territory"
+    },
+    "Corrupted Road": {
+        "location": "59,64,-1370",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nether Gate": {
+        "location": "224,64,-1281.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Detlas Far Suburbs": {
+        "location": "108.5,64,-1578.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Detlas Suburbs": {
+        "location": "244,64,-1578.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Detlas Close Suburbs": {
+        "location": "344.5,64,-1578.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Farmers Valley": {
+        "location": "-396,64,-1922",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nivla Forest Edge": {
+        "location": "-38.5,64,-1631",
+        "underground": false,
+		"class": "territory"
+    },
+    "Battle Tower": {
+        "location": "-357.5,64,-390",
+        "underground": false,
+		"class": "territory"
+    },
+    "Twain Lake": {
+        "location": "40,64,-420",
+        "underground": false,
+		"class": "territory"
+    },
+    "Twain Mansion": {
+        "location": "117.5,64,-358.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Bob\'s Tomb": {
+        "location": "303,64,-807",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nesaak Plains South East": {
+        "location": "153,64,-708.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nesaak Plains South West": {
+        "location": "-20,64,-722.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nesaak Plains North East": {
+        "location": "175,64,-954",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nesaak Plains Lower North West": {
+        "location": "-25,64,-872",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nesaak Plains Upper North West": {
+        "location": "-35,64,-1005",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nesaak Village": {
+        "location": "117.5,64,-805",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nesaak Bridge Transition": {
+        "location": "-177.5,64,-705",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nesaak Plains Mid North West": {
+        "location": "-160,64,-920",
+        "underground": false,
+		"class": "territory"
+    },
+    "Great Bridge Nesaak": {
+        "location": "-332.5,64,-705",
+        "underground": false,
+		"class": "territory"
+    },
+    "Great Bridge Jungle": {
+        "location": "-455,64,-700",
+        "underground": false,
+		"class": "territory"
+    },
+    "Jungle Lower": {
+        "location": "-557.5,64,-700",
+        "underground": false,
+		"class": "territory"
+    },
+    "Jungle Mid": {
+        "location": "-635,64,-695",
+        "underground": false,
+		"class": "territory"
+    },
+    "Jungle Upper": {
+        "location": "-740.5,64,-704.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Jungle Lake": {
+        "location": "-639.5,64,-864.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Temple of Leg  ends": {
+        "location": "-640,64,-1025",
+        "underground": false,
+		"class": "territory"
+    },
+    "City of Troms": {
+        "location": "-770,64,-967.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Rymek East Lower": {
+        "location": "1305,64,-1330",
+        "underground": false,
+		"class": "territory"
+    },
+    "Rymek East Mid": {
+        "location": "1345.5,64,-1495",
+        "underground": false,
+		"class": "territory"
+    },
+    "Rymek East Upper": {
+        "location": "1344.5,64,-1679.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Rymek West Lower": {
+        "location": "1114.5,64,-1324.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Rymek West Mid": {
+        "location": "1105.5,64,-1470",
+        "underground": false,
+		"class": "territory"
+    },
+    "Rymek West Upper": {
+        "location": "1082.5,64,-1602.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Desert East Upper": {
+        "location": "1355,64,-2270",
+        "underground": false,
+		"class": "territory"
+    },
+    "Desert East Mid": {
+        "location": "1355,64,-2095",
+        "underground": false,
+		"class": "territory"
+    },
+    "Desert East Lower": {
+        "location": "1360,64,-1902.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Desert Upper": {
+        "location": "1092.5,64,-2195",
+        "underground": false,
+		"class": "territory"
+    },
+    "Desert Mid-Upper": {
+        "location": "1127.5,64,-2027.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Desert Mid-Lower": {
+        "location": "1135,64,-1872.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Desert Lower": {
+        "location": "1125,64,-1745",
+        "underground": false,
+		"class": "territory"
+    },
+    "Almuj City": {
+        "location": "945,64,-1980",
+        "underground": false,
+		"class": "territory"
+    },
+    "Desert West Upper": {
+        "location": "942.5,64,-2205",
+        "underground": false,
+		"class": "territory"
+    },
+    "Desert West Lower": {
+        "location": "970,64,-1775.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Savannah East Lower": {
+        "location": "832.5,64,-1767.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Savannah East Upper": {
+        "location": "785,64,-1977.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Savannah West Lower": {
+        "location": "702.5,64,-1752.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Savannah West Upper": {
+        "location": "660,64,-1965",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nemract territory": {
+        "location": "110,64,-2142.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Plains Coast": {
+        "location": "-157.5,64,-2152.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nemract Road": {
+        "location": "100,64,-1967.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nemract Plains West": {
+        "location": "-47.5,64,-1885",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nemract Plains East": {
+        "location": "100,64,-1840",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nemract Cathedral": {
+        "location": "327.5,64,-2105",
+        "underground": false,
+		"class": "territory"
+    },
+    "Cathedral Harbour": {
+        "location": "477.5,64,-2065",
+        "underground": false,
+		"class": "territory"
+    },
+    "Zight Island": {
+        "location": "-480,64,-2832.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Durum Isles Center": {
+        "location": "440,64,-2880",
+        "underground": false,
+		"class": "territory"
+    },
+    "Durum Isles Upper": {
+        "location": "532.5,64,-2927.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Durum Isles East": {
+        "location": "485,64,-2790",
+        "underground": false,
+		"class": "territory"
+    },
+    "Durum Isles Lower": {
+        "location": "345,64,-2805",
+        "underground": false,
+		"class": "territory"
+    },
+    "Dead Island North East": {
+        "location": "925,64,-3955",
+        "underground": false,
+		"class": "territory"
+    },
+    "Dead Island South East": {
+        "location": "900,64,-3865",
+        "underground": false,
+		"class": "territory"
+    },
+    "Dead Island North West": {
+        "location": "840,64,-3980",
+        "underground": false,
+		"class": "territory"
+    },
+    "Dead Island South West": {
+        "location": "790,64,-3865",
+        "underground": false,
+		"class": "territory"
+    },
+    "Volcano Upper": {
+        "location": "-850,64,-3690",
+        "underground": false,
+		"class": "territory"
+    },
+    "Volcano Lower": {
+        "location": "-1035,64,-3660",
+        "underground": false,
+		"class": "territory"
+    },
+    "Tree Island": {
+        "location": "-415,64,-3810",
+        "underground": false,
+		"class": "territory"
+    },
+    "Ternaves Plains Upper": {
+        "location": "712.5,64,-1552.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Ternaves Plains Lower": {
+        "location": "767.5,64,-1380",
+        "underground": false,
+		"class": "territory"
+    },
+    "Mining Base Upper": {
+        "location": "775,64,-1277.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Mining Base Lower": {
+        "location": "770,64,-1177.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nesaak Transition": {
+        "location": "202.5,64,-1092.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Angry Village": {
+        "location": "390,64,-1105",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nether Plains Lower": {
+        "location": "200,64,-1177.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Plains Lake": {
+        "location": "472.5,64,-1277.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Mine Base Plains": {
+        "location": "600,64,-1310",
+        "underground": false,
+		"class": "territory"
+    },
+    "Detlas Savannah Transition": {
+        "location": "597.5,64,-1595",
+        "underground": false,
+		"class": "territory"
+    },
+    "Nether Plains Upper": {
+        "location": "252.5,64,-1427.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Detlas Trail East Plains": {
+        "location": "355,64,-1747.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Detlas Trail West Plains": {
+        "location": "112.5,64,-1730",
+        "underground": false,
+		"class": "territory"
+    },
+    "Llevigar Entrance": {
+        "location": "-1990,64,-4340.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Llevigar Gate East": {
+        "location": "-1969,64,-4697",
+        "underground": false,
+		"class": "territory"
+    },
+    "Llevigar Gate West": {
+        "location": "-2060,64,-4695",
+        "underground": false,
+		"class": "territory"
+    },
+    "Llevigar Farm Plains East": {
+        "location": "-1970,64,-4787.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Llevigar Farm Plains West": {
+        "location": "-2059.5,64,-4787",
+        "underground": false,
+		"class": "territory"
+    },
+    "Hive": {
+        "location": "333.5,64,-5503",
+        "underground": false,
+		"class": "territory"
+    },
+    "Llevigar Plains East Lower": {
+        "location": "-1980.5,64,-4870",
+        "underground": false,
+		"class": "territory"
+    },
+    "Llevigar  Plains West Lower": {
+        "location": "-2076,64,-4870",
+        "underground": false,
+		"class": "territory"
+    },
+    "Llevigar  Plains East Upper": {
+        "location": "-2084.5,64,-4956",
+        "underground": false,
+		"class": "territory"
+    },
+    "Llevigar  Plains West Upper": {
+        "location": "-1985.5,64,-4956",
+        "underground": false,
+		"class": "territory"
+    },
+    "Swamp West Lower": {
+        "location": "-2089.5,64,-5039",
+        "underground": false,
+		"class": "territory"
+    },
+    "Swamp East Lower": {
+        "location": "-1992,64,-5038.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Swamp East Mid": {
+        "location": "-1991.5,64,-5133.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Swamp West Mid": {
+        "location": "-2088.5,64,-5134",
+        "underground": false,
+		"class": "territory"
+    },
+    "Swamp East Mid-Upper": {
+        "location": "-2090.5,64,-5249.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Swamp West Mid-Upper": {
+        "location": "-1991.5,64,-5248.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Swamp East Upper": {
+        "location": "-2090.5,64,-5365.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Swamp West Upper": {
+        "location": "-1991.5,64,-5365",
+        "underground": false,
+		"class": "territory"
+    },
+    "Swamp Dark Forest Transition Lower": {
+        "location": "-1575,64,-5211",
+        "underground": false,
+		"class": "territory"
+    },
+    "Swamp Dark Forest Transition Mid": {
+        "location": "-1572.5,64,-5391.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Swamp Dark Forest Transition Upper": {
+        "location": "-1572.5,64,-5549.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Swamp Lower": {
+        "location": "-1706,64,-5187.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Entrance to Olux": {
+        "location": "-1706.5,64,-5321",
+        "underground": false,
+		"class": "territory"
+    },
+    "Swamp Mountain Base": {
+        "location": "-1837,64,-5187",
+        "underground": false,
+		"class": "territory"
+    },
+    "Swamp Plains Basin": {
+        "location": "-1837,64,-5321",
+        "underground": false,
+		"class": "territory"
+    },
+    "Swamp Mountain Transition Lower": {
+        "location": "-2150.5,64,-5534.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Swamp Mountain Transition Mid": {
+        "location": "-2096.5,64,-5534.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Swamp Mountain Transition Mid-Upper": {
+        "location": "-2023.5,64,-5534.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Swamp Mountain Transition Upper": {
+        "location": "-1935,64,-5534.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Quartz Mines South West": {
+        "location": "-1692.5,64,-4438",
+        "underground": false,
+		"class": "territory"
+    },
+    "Quartz Mines South East": {
+        "location": "-1499,64,-4438",
+        "underground": false,
+		"class": "territory"
+    },
+    "Quartz Mines North West": {
+        "location": "-1692.5,64,-4595",
+        "underground": false,
+		"class": "territory"
+    },
+    "Quartz Mines North East": {
+        "location": "-1499,64,-4595",
+        "underground": false,
+		"class": "territory"
+    },
+    "Green Gert Camp": {
+        "location": "-1873,64,-5033.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Gerten Lake": {
+        "location": "-1874.5,64,-4908",
+        "underground": false,
+		"class": "territory"
+    },
+    "Gerten Road": {
+        "location": "-1871,64,-4776",
+        "underground": false,
+		"class": "territory"
+    },
+    "Meteor Crater": {
+        "location": "-1745,64,-5034",
+        "underground": false,
+		"class": "territory"
+    },
+    "Black Gert Camp": {
+        "location": "-1747.5,64,-4908",
+        "underground": false,
+		"class": "territory"
+    },
+    "Red Gert Camp": {
+        "location": "-1735,64,-4768",
+        "underground": false,
+		"class": "territory"
+    },
+    "Bucie North West": {
+        "location": "-1648,64,-5034",
+        "underground": false,
+		"class": "territory"
+    },
+    "Bucie South West": {
+        "location": "-1649.5,64,-4908",
+        "underground": false,
+		"class": "territory"
+    },
+    "Llevigar Farm": {
+        "location": "-1609.5,64,-4781.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Bucie North East": {
+        "location": "-1566,64,-5034.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Bucie South East": {
+        "location": "-1565,64,-4908",
+        "underground": false,
+		"class": "territory"
+    },
+    "Pre-Light Forest Transition": {
+        "location": "-1514.5,64,-4784.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Gerten Fortress": {
+        "location": "-1343.5,64,-4808.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Road To Light Forest": {
+        "location": "-1319.5,64,-4654",
+        "underground": false,
+		"class": "territory"
+    },
+    "Light Forest Entrance": {
+        "location": "-1087,64,-4629",
+        "underground": false,
+		"class": "territory"
+    },
+    "Efelim Village": {
+        "location": "-1077,64,-5010.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Efelim South Plains": {
+        "location": "-1082,64,-4893.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Efelim East Plains": {
+        "location": "-981.5,64,-5011.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Efelim South East Plains": {
+        "location": "-981.5,64,-4894.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Light Forest North Entrance": {
+        "location": "-1082,64,-4776.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Light Forest South Entrance": {
+        "location": "-1086,64,-4487",
+        "underground": false,
+		"class": "territory"
+    },
+    "Aldorei Valley West Entrance": {
+        "location": "-769,64,-4490.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Light Forest South Exit": {
+        "location": "-689.5,64,-4629",
+        "underground": false,
+		"class": "territory"
+    },
+    "Light Forest North Exit": {
+        "location": "-693.5,64,-4777.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Light Forest West Lower": {
+        "location": "-971.5,64,-4488.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Light Forest West Mid": {
+        "location": "-971.5,64,-4629",
+        "underground": false,
+		"class": "territory"
+    },
+    "Light Forest West Upper": {
+        "location": "-974.5,64,-4776.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Light Forest East Upper": {
+        "location": "-878.5,64,-4893.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Light Forest East Mid": {
+        "location": "-880,64,-4773.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Light Forest East Lower": {
+        "location": "-865.5,64,-4626",
+        "underground": false,
+		"class": "territory"
+    },
+    "Hobbit River": {
+        "location": "-866,64,-4489",
+        "underground": false,
+		"class": "territory"
+    },
+    "Mantis Nest": {
+        "location": "-769,64,-4628.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Light Forest Canyon": {
+        "location": "-778,64,-4774",
+        "underground": false,
+		"class": "territory"
+    },
+    "Path to Cinfras": {
+        "location": "-776,64,-4897.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Lone Farmstead": {
+        "location": "-996,64,-5171.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Gelibord": {
+        "location": "-1004,64,-5293",
+        "underground": false,
+		"class": "territory"
+    },
+    "Gelibord Corrupted Farm": {
+        "location": "-1117.5,64,-5401.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Gelibord Castle": {
+        "location": "-1103.5,64,-5535",
+        "underground": false,
+		"class": "territory"
+    },
+    "Taproot Descent": {
+        "location": "-1309.5,64,-5498",
+        "underground": false,
+		"class": "territory"
+    },
+    "Fortress North": {
+        "location": "-1362,64,-5303",
+        "underground": false,
+		"class": "territory"
+    },
+    "Fortress South": {
+        "location": "-1366,64,-5117.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Mansion of Insanity": {
+        "location": "-1190.5,64,-5192",
+        "underground": false,
+		"class": "territory"
+    },
+    "Twisted Housing": {
+        "location": "-1093,64,-5194",
+        "underground": false,
+		"class": "territory"
+    },
+    "Lexdales Prison": {
+        "location": "-822.5,64,-5551.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Path To Prison": {
+        "location": "-835,64,-5458",
+        "underground": false,
+		"class": "territory"
+    },
+    "Gromblins Hideout": {
+        "location": "-844,64,-5320.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Abandoned Church": {
+        "location": "-849,64,-5167",
+        "underground": false,
+		"class": "territory"
+    },
+    "Mesquis Tower": {
+        "location": "-780.5,64,-5038.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Corrupted Impact": {
+        "location": "-755,64,-5165.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Banshees Cave": {
+        "location": "-719,64,-5316",
+        "underground": false,
+		"class": "territory"
+    },
+    "Shanjugin\'s River": {
+        "location": "-712.5,64,-5466",
+        "underground": false,
+		"class": "territory"
+    },
+    "Dark Forest Village": {
+        "location": "-648.5,64,-5188",
+        "underground": false,
+		"class": "territory"
+    },
+    "Graveyard South": {
+        "location": "-607.5,64,-5272.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Graveyard North": {
+        "location": "-607.5,64,-5357",
+        "underground": false,
+		"class": "territory"
+    },
+    "Arachnida Cave": {
+        "location": "-519,64,-5338.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Black Magic": {
+        "location": "-510,64,-5458.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Corrupted Hand": {
+        "location": "-526,64,-5549",
+        "underground": false,
+		"class": "territory"
+    },
+    "Cinfras Entrance": {
+        "location": "-636,64,-4932",
+        "underground": false,
+		"class": "territory"
+    },
+    "Abandoned Tower": {
+        "location": "-340,64,-5506",
+        "underground": false,
+		"class": "territory"
+    },
+    "Dark Forest Cinfras Transition": {
+        "location": "-341,64,-5204",
+        "underground": false,
+		"class": "territory"
+    },
+    "Guild Hall": {
+        "location": "-243,64,-4953.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Aldorei Valley South Entrance": {
+        "location": "-176,64,-4575",
+        "underground": false,
+		"class": "territory"
+    },
+    "Cinfras\'s Small Farm": {
+        "location": "-177,64,-4718",
+        "underground": false,
+		"class": "territory"
+    },
+    "Cinfras Country Lower": {
+        "location": "-62,64,-4700.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Cinfras Country Mid-Lower": {
+        "location": "-62,64,-4828.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Cinfras Country Mid-Upper": {
+        "location": "-62,64,-4973.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Cinfras Country Upper": {
+        "location": "-62,64,-5103",
+        "underground": false,
+		"class": "territory"
+    },
+    "Gylia Lake South East": {
+        "location": "-48.5,64,-5214",
+        "underground": false,
+		"class": "territory"
+    },
+    "Gylia Lake South West": {
+        "location": "-177.5,64,-5222",
+        "underground": false,
+		"class": "territory"
+    },
+    "Gylia Lake North West": {
+        "location": "-174,64,-5350",
+        "underground": false,
+		"class": "territory"
+    },
+    "Gylia Lake North East": {
+        "location": "-53.5,64,-5344.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Orc Camp": {
+        "location": "-26.5,64,-5526",
+        "underground": false,
+		"class": "territory"
+    },
+    "Jitak\'s Farm": {
+        "location": "-170,64,-5498.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Aldorei Valley Lower": {
+        "location": "-636.5,64,-4447",
+        "underground": false,
+		"class": "territory"
+    },
+    "Aldorei Valley Mid": {
+        "location": "-503.5,64,-4447",
+        "underground": false,
+		"class": "territory"
+    },
+    "Aldorei Valley Upper": {
+        "location": "-503.5,64,-4581",
+        "underground": false,
+		"class": "territory"
+    },
+    "Aldorei\'s River": {
+        "location": "-387.5,64,-4706",
+        "underground": false,
+		"class": "territory"
+    },
+    "Aldorei\'s Waterfall": {
+        "location": "-279,64,-4581",
+        "underground": false,
+		"class": "territory"
+    },
+    "Aldorei\'s North Exit": {
+        "location": "-62,64,-4574.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Aldorieâ€™s Arch": {
+        "location": "70,64,-4443",
+        "underground": false,
+		"class": "territory"
+    },
+    "Path To The Arch": {
+        "location": "71,64,-4581",
+        "underground": false,
+		"class": "territory"
+    },
+    "Ghostly Path": {
+        "location": "71,64,-4698",
+        "underground": false,
+		"class": "territory"
+    },
+    "Burning Farm": {
+        "location": "71,64,-4806",
+        "underground": false,
+		"class": "territory"
+    },
+    "Burning Airship": {
+        "location": "71,64,-4907",
+        "underground": false,
+		"class": "territory"
+    },
+    "Cinfras Thanos Transition": {
+        "location": "66.5,64,-5001.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Path To Thanos": {
+        "location": "66.5,64,-5097.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Path To Military Base": {
+        "location": "108.5,64,-5344",
+        "underground": false,
+		"class": "territory"
+    },
+    "Military Base": {
+        "location": "135,64,-5455.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Military Base Upper": {
+        "location": "209,64,-5463",
+        "underground": false,
+		"class": "territory"
+    },
+    "Military Base Lower": {
+        "location": "206,64,-5361",
+        "underground": false,
+		"class": "territory"
+    },
+    "Path To Ozothâ€™s Spire Lower": {
+        "location": "229.5,64,-5233.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Path To Ozothâ€™s Spire Mid": {
+        "location": "229.5,64,-5103",
+        "underground": false,
+		"class": "territory"
+    },
+    "Path To Ozothâ€™s Spire Upper": {
+        "location": "152.5,64,-5105",
+        "underground": false,
+		"class": "territory"
+    },
+    "Bandit Cave Lower": {
+        "location": "152.5,64,-5000.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Bandit Cave Upper": {
+        "location": "152.5,64,-4914",
+        "underground": false,
+		"class": "territory"
+    },
+    "Canyon Entrance Waterfall": {
+        "location": "152,64,-4805",
+        "underground": false,
+		"class": "territory"
+    },
+    "Canyon Path North West": {
+        "location": "152,64,-4693.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Canyon Path South East": {
+        "location": "154.5,64,-4585",
+        "underground": false,
+		"class": "territory"
+    },
+    "Canyon Waterfall North": {
+        "location": "154.5,64,-4269.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Canyon Upper North West": {
+        "location": "232.5,64,-4449",
+        "underground": false,
+		"class": "territory"
+    },
+    "Canyon Lower South East": {
+        "location": "232,64,-4585",
+        "underground": false,
+		"class": "territory"
+    },
+    "Canyon Path South West": {
+        "location": "232.5,64,-4696.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Canyon Path North Mid": {
+        "location": "232,64,-4809",
+        "underground": false,
+		"class": "territory"
+    },
+    "Bandit Camp Exit": {
+        "location": "233.5,64,-4924",
+        "underground": false,
+		"class": "territory"
+    },
+    "Canyon Valley South": {
+        "location": "231,64,-5004",
+        "underground": false,
+		"class": "territory"
+    },
+    "Thanos Valley West": {
+        "location": "280.5,64,-5358",
+        "underground": false,
+		"class": "territory"
+    },
+    "Thanos Exit": {
+        "location": "300,64,-5239",
+        "underground": false,
+		"class": "territory"
+    },
+    "Canyon Walk Way": {
+        "location": "304.5,64,-5103",
+        "underground": false,
+		"class": "territory"
+    },
+    "Canyon Mountain East": {
+        "location": "304,64,-4993.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Canyon Mountain South": {
+        "location": "304,64,-4901.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Canyon Waterfall Mid North": {
+        "location": "304,64,-4798",
+        "underground": false,
+		"class": "territory"
+    },
+    "Canyon Fortress": {
+        "location": "304.5,64,-4684.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Canyon Survivor": {
+        "location": "303.5,64,-4575",
+        "underground": false,
+		"class": "territory"
+    },
+    "Canyon Dropoff": {
+        "location": "301.5,64,-4456.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Thanos Exit Upper": {
+        "location": "392.5,64,-5248",
+        "underground": false,
+		"class": "territory"
+    },
+    "Bandits Toll": {
+        "location": "391.5,64,-5137",
+        "underground": false,
+		"class": "territory"
+    },
+    "Wizard Tower North": {
+        "location": "391.5,64,-5001.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Mountain Path": {
+        "location": "305,64,-4353.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Mountain Edge": {
+        "location": "386.5,64,-4353",
+        "underground": false,
+		"class": "territory"
+    },
+    "Cliff Side of the Lost": {
+        "location": "388.5,64,-4451.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Valley of the Lost": {
+        "location": "388,64,-4590.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Temple of the Lost East": {
+        "location": "390.5,64,-4755",
+        "underground": false,
+		"class": "territory"
+    },
+    "Koltronâ€™s Cave": {
+        "location": "389.5,64,-4901.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Hive South": {
+        "location": "500,64,-5382",
+        "underground": false,
+		"class": "territory"
+    },
+    "Canyon High Path": {
+        "location": "501,64,-5252",
+        "underground": false,
+		"class": "territory"
+    },
+    "Cliffside Waterfall": {
+        "location": "501.5,64,-5131.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Cliffside Valley": {
+        "location": "501.5,64,-5027",
+        "underground": false,
+		"class": "territory"
+    },
+    "Air Temple Lower": {
+        "location": "504,64,-4903.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Air Temple Upper": {
+        "location": "507.5,64,-4762.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Cliffside Lake": {
+        "location": "507.5,64,-4628.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Canyon Of The Lost": {
+        "location": "506.5,64,-4479",
+        "underground": false,
+		"class": "territory"
+    },
+    "Kandon Farm": {
+        "location": "662,64,-4634.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Cliffside Passage": {
+        "location": "635.5,64,-4754",
+        "underground": false,
+		"class": "territory"
+    },
+    "Cliffside Passage North": {
+        "location": "636,64,-4875.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Entrance to Thesead North": {
+        "location": "636,64,-4981.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Entrance to Thesead South": {
+        "location": "637,64,-5105.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Chained House": {
+        "location": "636.5,64,-5308.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Cherry Blossom Forest": {
+        "location": "637,64,-5464.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Ranolâ€™s Farm": {
+        "location": "755.5,64,-5464",
+        "underground": false,
+		"class": "territory"
+    },
+    "Thesead Suberbs": {
+        "location": "756.5,64,-5295",
+        "underground": false,
+		"class": "territory"
+    },
+    "Entrance to Rodoroc": {
+        "location": "983.5,64,-5312",
+        "underground": false,
+		"class": "territory"
+    },
+    "Molten Heights Portal": {
+        "location": "1461,64,-5216.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Lava Lake": {
+        "location": "1459,64,-5461",
+        "underground": false,
+		"class": "territory"
+    },
+    "Lava Lake Bridge": {
+        "location": "1304.5,64,-5303",
+        "underground": false,
+		"class": "territory"
+    },
+    "Crater Descent": {
+        "location": "1306.5,64,-5152.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Active Volcano": {
+        "location": "1306,64,-5461",
+        "underground": false,
+		"class": "territory"
+    },
+    "Volcanic Slope": {
+        "location": "1376,64,-5596",
+        "underground": false,
+		"class": "territory"
+    },
+    "Temple Island": {
+        "location": "1057.5,64,-4696.5",
+        "underground": false,
+		"class": "territory"
+    },
+    "Snail Island": {
+        "location": "990,64,-4841.5",
+        "underground": false,
+		"class": "territory"
+    }
+}
