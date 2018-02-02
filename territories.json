@@ -495,11 +495,6 @@
 		"end": "-620,-3050"
 	},
 	{
-		"name": "Skiens Island",
-		"start": "350,-3540",
-		"end": "410,-3420"
-	},
-	{
 		"name": "Dujgon Nation",
 		"start": "1000,-3550",
 		"end": "925,-3380"
@@ -528,11 +523,6 @@
 		"name": "Dead Island South West",
 		"start": "870,-3920",
 		"end": "710,-3810"
-	},
-	{
-		"name": "Maro Peaks",
-		"start": "250,-4050",
-		"end": "120,-3890"
 	},
 	{
 		"name": "Volcano Upper",
@@ -1863,5 +1853,22 @@
                 "name": "Jofash Docks",
                 "start": "1178,-4175",
                 "end": "1465,-3926"
+        },
+        {
+                "name": "Skiens Island",
+                "start": "527,-3386",
+                "end": "297,-3644"
+
+        },
+        {
+                "name": "Maro Peaks",
+                "start": "548,-4204",
+                "end": "-61,-3794"
+
+        },
+        {
+                "name": "Ancient Nemract",
+                "start": "152,-1832",
+                "end": "290,-1999"
         }
 ]
