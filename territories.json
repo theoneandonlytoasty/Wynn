@@ -1870,5 +1870,19 @@
                 "name": "Ancient Nemract",
                 "start": "152,-1832",
                 "end": "290,-1999"
-        }
+        },
+	{
+		"name": "Aldorei Lowlands",
+		"start": "-337,-4756",
+		"end": "-225,-4643",
+		"level": 70,
+		"xp": 2530
+	  },
+	  {
+		"name": "Cinfras Outskirts",
+		"start": "-392,-5116",
+		"end": "-534,-5292",
+		"level": 70,
+		"xp": 2530
+	  }
 ]
