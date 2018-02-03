@@ -403,14 +403,14 @@
     },
     {
       "name": "Rymek East Mid",
-      "start": "1209,-1410",
+      "start": "1210,-1410",
       "end": "1480,-1580",
       "level": 30,
       "xp": 300
     },
     {
       "name": "Rymek East Upper",
-      "start": "1479,-1579",
+      "start": "1479,-1580",
       "end": "1210,-1780",
       "level": 30,
       "xp": 300
