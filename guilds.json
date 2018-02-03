@@ -1,29 +1,40 @@
 {
   "coalition": [
-  "Kingdom Foxes",
-  "Hall of Fame",
-  "House of Sentinels",
-  "HackForums",
-  "Imperial",
-  "Serpentem Empire",
-  "As Darkness Falls",
-  "House of Sentinels",
-  "Kangronomicon",
-  "Holders Of LE",
-  "LE Flowers",
-  "Paladins United"
+    "Kingdom Foxes",
+    "Hall of Fame",
+    "House of Sentinels",
+    "HackForums",
+    "Imperial",
+    "Serpentem Empire",
+    "As Darkness Falls",
+    "House of Sentinels",
+    "Kangronomicon",
+    "Holders of LE",
+    "LE Flowers",
+    "Paladins United"
+  ],
+  "war": [
+    "Buildcraftia",
+    "Sins of Seedia",
+    "DogsAmongUs",
+    "TheDivineSouls",
+    "Tranquility",
+    "TheOldKeepers",
+    "TheDivineSwords",
+    "TitansValor",
+    "Beasts"
   ],
   "colors": {
     "Kingdom Foxes": "FF8200",
-    "Hall of Fame":"9B59B6",
-    "House of Sentinels":"7F0000",
-    "LE Flowers":"0715CD",
-    "Gilded Sparrows":"DFAF2A",
-    "KingdomPhoenixes":"39FFFF",
-    "Necronomicon":"d35fb6",
-    "Immortalish":"4AD350",
-    "Kasai Shinrai":"33FF64",
-    "BuildCraftia":"1CE00B",
-    "Imperial":"990033"
+    "Hall of Fame": "9B59B6",
+    "House of Sentinels": "7F0000",
+    "LE Flowers": "0715CD",
+    "Gilded Sparrows": "DFAF2A",
+    "KingdomPhoenixes": "39FFFF",
+    "Necronomicon": "d35fb6",
+    "Immortalish": "4AD350",
+    "Kasai Shinrai": "33FF64",
+    "BuildCraftia": "1CE00B",
+    "Imperial": "990033"
   }
 }
