@@ -12,5 +12,18 @@
   "Holders of LE",
   "LE Flowers",
   "Paladins United"
-  ]
+  ],
+  "colors": {
+    "Kingdom Foxes": "FF8200",
+    "Hall of Fame":"9B59B6",
+    "House of Sentinels":"7F0000",
+    "LE Flowers":"0715CD",
+    "Gilded Sparrows":"DFAF2A",
+    "KingdomPhoenixes":"39FFFF",
+    "Necronomicon":"d35fb6",
+    "Immortalish":"4AD350",
+    "Kasai Shinrai":"33FF64",
+    "BuildCraftia":"1CE00B",
+    "Imperial":"990033"
+  }
 }
