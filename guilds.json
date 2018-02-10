@@ -1,29 +1,31 @@
 {
-  "coalition": [
-    "Kingdom Foxes",
-    "Hall of Fame",
-    "House of Sentinels",
-    "HackForums",
-    "Imperial",
-    "Serpentem Empire",
-    "As Darkness Falls",
-    "House of Sentinels",
-    "Kangronomicon",
-    "Holders of LE",
-    "LE Flowers",
-    "Paladins United"
-  ],
-  "war": [
-    "Buildcraftia",
-    "Sins of Seedia",
-    "DogsAmongUs",
-    "TheDivineSouls",
-    "Tranquility",
-    "TheOldKeepers",
-    "TheDivineSwords",
-    "TitansValor",
-    "Beasts"
-  ],
+  "groups": {
+    "coalition": [
+      "Kingdom Foxes",
+      "Hall of Fame",
+      "House of Sentinels",
+      "HackForums",
+      "Imperial",
+      "Serpentem Empire",
+      "As Darkness Falls",
+      "House of Sentinels",
+      "Kangronomicon",
+      "Holders of LE",
+      "LE Flowers",
+      "Paladins United"
+    ],
+    "war": [
+      "Buildcraftia",
+      "Sins of Seedia",
+      "DogsAmongUs",
+      "TheDivineSouls",
+      "Tranquility",
+      "TheOldKeepers",
+      "TheDivineSwords",
+      "TitansValor",
+      "Beasts"
+    ]
+  },
   "colors": {
     "Kingdom Foxes": "FF8200",
     "Hall of Fame": "9B59B6",
