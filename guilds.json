@@ -6,7 +6,6 @@
             "Hall of Fame",
             "Holders of LE",
             "House of Sentinels",
-            "House of Sentinels",
             "Imperial",
             "Kangronomicon",
             "Kingdom Foxes",
@@ -322,7 +321,8 @@
         "Kasai Shinrai": "33FF64",
         "Kingdom Foxes": "FF8200",
         "KingdomPhoenixes": "FFD719",
-        "LE Flowers": "0715CD",
-        "Necronomicon": "d35fb6"
+        "LE Flowers": "00F5FF",
+        "Necronomicon": "D35FB6",
+        "Emorians": "005FE8"
     }
 }
