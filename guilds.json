@@ -1,36 +1,43 @@
 {
     "groups": {
-        "coalition": [
-            "HackForums",
+        "federation": [
+            "Angels of Eternal",
+            "BuildCraftia",
+            "DeathReapers",
+            "Deimos",
             "Hall of Fame",
+            "Sins of Seedia",
             "Holders of LE",
-            "House of Sentinels",
-            "Imperial",
-            "Kangronomicon",
-            "Kingdom Foxes",
             "KingdomPhoenixes",
             "LE Flowers",
-            "Paladins United",
+            "Ice Blue Team",
             "Serpentem Empire",
-            "Emorians"
+            "Immortalish",
+            "Imperial",
+            "Kasai Shinrai",
+            "Kingdom Foxes",
+            "DogsAmongUs",
+            "Fantasy",
+            "The Divine Swords",
+            "The Hive",
+            "TheEnchanted",
+            "Titans Valor"
         ],
         "war": [
-            "Beasts",
-            "Buildcraftia",
-            "DogsAmongUs",
-            "Sins of Seedia",
-            "TheDivineSouls",
-            "TheDivineSwords",
-            "TheOldKeepers",
-            "TitansValor",
-            "Tranquility"
+            "Blacklisted",
+            "Emorians",
+            "HackForums",
+            "House of Sentinels",
+            "Kangronomicon",
+            "Necronomicon",
+            "Paladins United"
         ]
     },
     "prefix": {
-        "coalition": "♠"
+        "federation": "♠"
     },
     "territories": {
-        "coalition": {
+        "federation": {
             "assigned": {
                 "Abandoned Church": "",
                 "Abandoned Tower": "",
