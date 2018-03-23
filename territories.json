@@ -633,29 +633,33 @@
     },
     {
       "name": "Durum Isles Center",
-      "start": "480,-2940",
-      "end": "400,-2820",
-      "level": 15
+      "start": "413,-2869",
+      "end": "508,-2960",
+      "level": 15,
+      "spawnLocation": "457,44,-2912"
     },
     {
       "name": "Durum Isles Upper",
-      "start": "500,-2950",
-      "end": "565,-2905",
+      "start": "536,-2934",
+      "end": "589,-2991",
       "level": 15,
+      "spawnLocation": "560,39,-2964",
       "xp": 120
     },
     {
       "name": "Durum Isles East",
-      "start": "450,-2810",
-      "end": "520,-2770",
+      "start": "480,-2841",
+      "end": "548,-2785",
       "level": 15,
+      "spawnLocation": "506,42,-2813",
       "xp": 120
     },
     {
       "name": "Durum Isles Lower",
-      "start": "370,-2780",
-      "end": "320,-2830",
+      "start": "548,-2798",
+      "end": "476,-2839",
       "level": 15,
+     "spawnLocation": "366,40,-2823",
       "xp": 120
     },
     {
