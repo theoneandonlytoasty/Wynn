@@ -2657,5 +2657,13 @@
       "level": 55,
       "spawnLocation": "-968,94,-5571",
       "xp": 1185
+    },
+    {
+      "name": "Frozen Fort",
+      "start": "1001,-3274",
+      "end": "1172,-3430",
+      "level": 540,
+      "spawnLocation": "1109,55,-3334",
+      "xp": 540
     }
   ]
