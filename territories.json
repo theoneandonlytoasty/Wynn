@@ -2660,7 +2660,7 @@
     },
     {
       "name": "Frozen Fort",
-      "start": "1001,-3274",
+      "start": "1001,-3244",
       "end": "1172,-3430",
       "level": 540,
       "spawnLocation": "1109,55,-3334",
