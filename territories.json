@@ -2644,10 +2644,18 @@
       "xp": 540
     },
     {
-    "name": "Herb Cave",
-    "start": "-448,-813",
-    "end": "-557,-876",
-    "level": 45,
-    "xp": 700
+      "name": "Herb Cave",
+      "start": "-448,-813",
+      "end": "-557,-876",
+      "level": 45,
+      "xp": 700
+    },
+    {
+      "name": "Twisted Ridge",
+      "start": "-1020,-5603",
+      "end": "-910,-5323",
+      "level": 55,
+      "spawnLocation": "-968,94,-5571",
+      "xp": 1185
     }
   ]
