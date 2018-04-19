@@ -903,28 +903,28 @@
       "xp": 410
     },
     {
-      "name": "Llevigar Plains East Upper",
+      "name": "Llevigar Plains West Upper",
       "start": "-2038,-4912",
       "end": "-2131,-5000",
       "level": 35,
       "xp": 410
     },
     {
-      "name": "Llevigar Plains West Upper",
+      "name": "Llevigar Plains East Upper",
       "start": "-2031,-4912",
       "end": "-1940,-5000",
       "level": 35,
       "xp": 410
     },
     {
-      "name": "Swamp West Lower",
+      "name": "Swamp East Lower",
       "start": "-2045,-5003",
       "end": "-2134,-5075",
       "level": 45,
       "xp": 700
     },
     {
-      "name": "Swamp East Lower",
+      "name": "Swamp West Lower",
       "start": "-2028,-5003",
       "end": "-1956,-5074",
       "level": 45,
