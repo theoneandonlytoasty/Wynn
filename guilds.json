@@ -1,36 +1,25 @@
 {
     "groups": {
         "federation": [
+            "Angelic",
             "Angels of Eternal",
-            "BuildCraftia",
-            "DeathReapers",
-            "Deimos",
+            "As Darkness Falls",
+            "DiamondDeities",
+            "DogsAmongUs",
+            "Emorians",
+            "Fantasy",
             "Hall of Fame",
-            "Sins of Seedia",
             "Holders of LE",
-            "KingdomPhoenixes",
-            "LE Flowers",
             "IceBlue Team",
-            "Serpentem Empire",
-            "Immortalish",
             "Imperial",
             "Kasai Shinrai",
             "Kingdom Foxes",
-            "DogsAmongUs",
-            "Fantasy",
-            "The Divine Swords",
+            "KingdomPhoenixes",
+            "Paladins United",
+            "Sins of Seedia",
             "The Hive",
-            "TheEnchanted",
+            "TheDivineSwords",
             "Titans Valor"
-        ],
-        "war": [
-            "Blacklisted",
-            "Emorians",
-            "HackForums",
-            "House of Sentinels",
-            "Kangronomicon",
-            "Necronomicon",
-            "Paladins United"
         ]
     },
     "prefix": {
@@ -317,6 +306,7 @@
         }
     },
     "colors": {
+        "Angelic": "1F87E2",
         "BuildCraftia": "1CE00B",
         "Gilded Sparrows": "DFAF2A",
         "Hall of Fame": "9B59B6",
