@@ -2665,13 +2665,5 @@
       "level": 540,
       "spawnLocation": "1109,55,-3334",
       "xp": 540
-    },
-        {
-      "name": "Viva Valkyrie",
-      "start": "-2400 -5600",
-      "end": "1600 ,-4300",
-      "level": 540,
-      "spawnLocation": "1109,55,-3334",
-      "xp": 540
     }
   ]
