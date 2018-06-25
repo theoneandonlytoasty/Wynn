@@ -1,7 +1,6 @@
 {
     "groups": {
         "federation": [
-            "Angelic",
             "Angels of Eternal",
             "Constellations",
             "DiamondDeities",
@@ -14,14 +13,13 @@
             "Imperial",
             "Kasai Shinrai",
             "Kingdom Foxes",
-            "KingdomPhoenixes",
             "Lunatic",
-            "Paladins United",
             "Sins of Seedia",
             "TheNoLifes",
             "The Hive",
             "The Divine Swords",
-            "Titans Valor"
+            "Titans Valor",
+            "Verinian Trials"
         ]
     },
     "prefix": {
@@ -308,7 +306,6 @@
         }
     },
     "colors": {
-        "Angelic": "1F87E2",
         "BuildCraftia": "1CE00B",
         "Constellations": "FFEEBC",
         "Gilded Sparrows": "DFAF2A",
