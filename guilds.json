@@ -1,15 +1,12 @@
 {
     "groups": {
         "federation": [
-            "Angels of Eternal",
-            "Constellations",
             "DiamondDeities",
             "DogsAmongUs",
             "Emorians",
             "Ex Nihilo",
             "Fantasy",
             "Hall of Fame",
-            "Holders of LE",
             "IceBlue Team",
             "Imperial",
             "Kasai Shinrai",
@@ -20,7 +17,6 @@
             "TheNoLifes",
             "The Hive",
             "The Divine Swords",
-            "Titans Valor",
             "Verinian Trials"
         ]
     },
