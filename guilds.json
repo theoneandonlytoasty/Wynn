@@ -2,7 +2,6 @@
     "groups": {
         "federation": [
             "DiamondDeities",
-            "DogsAmongUs",
             "Emorians",
             "Ex Nihilo",
             "Fantasy",
@@ -16,7 +15,8 @@
             "Sins of Seedia",
             "TheNoLifes",
             "The Hive",
-            "The Divine Swords"
+            "The Divine Swords",
+            "White Lotus"
         ]
     },
     "prefix": {
