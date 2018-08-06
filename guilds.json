@@ -1,6 +1,7 @@
 {
     "groups": {
         "federation": [
+            "Aphelion",
             "DiamondDeities",
             "Emorians",
             "Ex Nihilo",
@@ -322,6 +323,7 @@
         "IceBlue Team": "99AAB5",
         "Fantasy": "21C8EC",
         "Sins of Seedia": "6B0B0B",
-        "The Hive": "A550F3"
+        "The Hive": "A550F3",
+        "White Lotus": "F8F7F7"
     }
 }
