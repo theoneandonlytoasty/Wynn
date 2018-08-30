@@ -2,6 +2,7 @@
     "groups": {
         "federation": [
             "Aphelion",
+            "Arisen",
             "DiamondDeities",
             "Emorians",
             "Ex Nihilo",
@@ -12,14 +13,14 @@
             "Kingdom Foxes",
             "Libertas",
             "Lunatic",
+            "Metric",
             "Paladins United",
             "Renegade",
             "Sins of Seedia",
             "TheNoLifes",
             "The Hive",
             "The Divine Swords",
-            "White Lotus",
-            "Arisen"
+            "White Lotus"
         ]
     },
     "prefix": {
