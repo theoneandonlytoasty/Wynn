@@ -20,7 +20,8 @@
             "TheNoLifes",
             "The Hive",
             "The Divine Swords",
-            "White Lotus"
+            "White Lotus",
+            "Odysseia"
         ]
     },
     "prefix": {
@@ -328,6 +329,7 @@
         "Fantasy": "21C8EC",
         "Sins of Seedia": "6B0B0B",
         "The Hive": "A550F3",
-        "White Lotus": "F8F7F7"
+        "White Lotus": "F8F7F7",
+        "Apotheosis": "#ff6699"
     }
 }
