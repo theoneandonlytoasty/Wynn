@@ -2665,5 +2665,13 @@
       "level": 540,
       "spawnLocation": "1109,55,-3334",
       "xp": 540
+    },
+    {
+      "name": "Imperial Gate",
+      "start": "-1822,-1995",
+      "end": "-2015,-1725",
+      "level": 60,
+      "spawnLocation": "-1914,56,-1808",
+      "xp": 1530
     }
   ]
