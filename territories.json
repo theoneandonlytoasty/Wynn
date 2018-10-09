@@ -3040,11 +3040,20 @@
       "spawnLocation": "-1914,56,-1808",
       "xp": 1530
     },
+    {
       "name": "Fleris Trail",
       "start": "-1392,-4712",
       "end": "-1392,-4594",
       "level": 60,
-      "spawnLocation": "-1314,45,-4507",
-      "xp": 1530
+      "xp": 1530,
+      "spawnLocation": "-1314,45,-4507"
+    },
+    {
+      "name": "Orc Battlegrounds",
+      "start": "-1460,-5024",
+      "end": "-1282,-4913",
+      "level": 60,
+      "xp": 1530,
+      "spawnLocation": "1375,43,-4965"
     }
 ]
