@@ -1,21 +1,19 @@
 {
     "groups": {
         "federation": [
-            "Aphelion",
             "Arisen",
             "DiamondDeities",
             "Emorians",
+            "Fantasy",
             "IceBlue Team",
             "Imperial",
             "Kingdom Foxes",
-            "Lunatic",
+            "Minerva",
             "Nethers Ascent",
             "Paladins United",
             "Sins of Seedia",
             "TheNoLifes",
-            "The Hive",
             "The Divine Swords",
-            "Odysseia",
             "Titans Valor"
         ]
     },
@@ -325,6 +323,6 @@
         "Sins of Seedia": "6B0B0B",
         "The Hive": "A550F3",
         "White Lotus": "F8F7F7",
-        "Apotheosis": "#ff6699"
+        "Apotheosis": "FF6699"
     }
 }
