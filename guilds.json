@@ -1,47 +1,28 @@
 {
     "groups": {
-        "federation": [
-            "Arisen",
-            "DiamondDeities",
+        "valkyrie": [
+            "Audux",
             "Emorians",
-            "IceBlue Team",
-            "Holders Of LE",
+            "Imperial",
             "Kingdom Foxes",
-            "Minerva",
-            "Paladins United",
-            "Ram Ranch",
-            "Sins of Seedia",
-            "TheNoLifes",
-            "Titans Valor"
+            "The Hive"
         ]
     },
     "prefix": {
-        "federation": "♣"
+        "valkyrie": "VA"
     },
     "colors": {
-        "Avicia": "1010FE",
         "BuildCraftia": "1CE00B",
-        "Constellations": "FFEEBC",
-        "DiamondDeities": "42A8C7",
-        "DogsAmongUs": "DB0505",
-        "Gilded Sparrows": "DFAF2A",
-        "Hall of Fame": "FFCE2B",
         "Holders of LE": "28FFC5",
         "House of Sentinels": "7F0000",
-        "Immortalish": "4AD350",
-        "Imperial": "990033",
-        "Kasai Shinrai": "33FF64",
-        "Kingdom Foxes": "FF8200",
-        "KingdomPhoenixes": "FFD719",
-        "LE Flowers": "00F5FF",
-        "Necronomicon": "D35FB6",
-        "Emorians": "005FE8",
+        "Imperial": "000000",
+        "Kingdom Foxes": "000000",
+        "The Hive": "000000",
+        "Audux": "000000",
+        "Emorians": "000000",
         "IceBlue Team": "99AAB5",
+        "DiamondDeities": "42A8C7",
         "Fantasy": "21C8EC",
-        "Sins of Seedia": "6B0B0B",
-        "The Hive": "A550F3",
-        "White Lotus": "F8F7F7",
-        "Apotheosis": "FF6699",
-        "Audux": "005FE8"
+        "Sins of Seedia": "6B0B0B"
     }
 }
